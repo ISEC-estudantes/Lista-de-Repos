@@ -10,19 +10,21 @@ Trabalhos por disciplina
  
 ### PA - Programação Avançada
 
-
 - [Planet_Bound](https://github.com/ISEC-estudantes/Planet_Bound) de [OnikenX](https://github.com/OnikenX), 2020
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
 
 ### P - Programação
 
- -  [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
+ - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
+ - [tp_prog](https://github.com/TheForgottened/tp_prog) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
  
 ### CR - Conhecimento e Raciocínio
 
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
 
-###
+### AM2 - Análise Matemática 2
+
+- [tp01_am2](https://github.com/TheForgottened/tp01_am2), [tp02_am2](https://github.com/TheForgottened/tp01_am2), [tp03_am2](https://github.com/TheForgottened/tp01_am2) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
 
 ## Recursos
 
