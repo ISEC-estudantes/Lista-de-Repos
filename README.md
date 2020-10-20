@@ -17,7 +17,7 @@ Trabalhos por disciplina
 
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
  - [tp_prog](https://github.com/TheForgottened/tp_prog) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
- - [P-virus2020](https://github.com/JOSEALM3IDA/TrabalhosISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
+ - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  
 ### CR - Conhecimento e Raciocínio
 
