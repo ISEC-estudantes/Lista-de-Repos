@@ -48,6 +48,10 @@ Trabalhos por disciplina
 
     Resoluções de PWEB (relacionado a C# e .NET).
     
+- [AMOV-notes](https://github.com/ISEC-estudantes/AMOV-notes) mantido por [OnikenX](https://github.com/OnikenX)
+
+    Projetos para android feitos para ou nas aulas de AMOV
+    
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
     Exercícios resolvidos dos guiões laboratorias de Programação (2020).
@@ -72,4 +76,3 @@ Trabalhos por disciplina
 
     Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
     
-
