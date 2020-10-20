@@ -8,7 +8,7 @@ Trabalhos por disciplina
  
 ### PA - Programação Avançada
 
-- [Planet_Bound](https://github.com/ISEC-estudantes/Planet_Bound) de [OnikenX](https://github.com/OnikenX), 2020
+- [Planet_Bound](https://github.com/ISEC-estudantes/Planet_Bound) feito por [OnikenX](https://github.com/OnikenX) em 2020
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
 
 ### P - Programação
