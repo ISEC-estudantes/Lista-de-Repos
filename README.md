@@ -31,6 +31,8 @@ Trabalhos por disciplina
 
 - [tp01_am2](https://github.com/TheForgottened/tp01_am2), [tp02_am2](https://github.com/TheForgottened/tp01_am2), [tp03_am2](https://github.com/TheForgottened/tp01_am2) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
 
+- [AT01-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
+
 ## Recursos
 
 - [Resolucoes-ISEC](https://github.com/ISEC-estudantes/Resolucoes-ISEC), mantido por [Samega7Cattac](https://github.com/Samega7Cattac)
