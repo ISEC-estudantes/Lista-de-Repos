@@ -19,6 +19,10 @@ Trabalhos por disciplina
  - [tp_prog](https://github.com/TheForgottened/tp_prog) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
  - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  
+### TWEB - Tecnologias WEB
+
+ - [tweb-quercus](https://github.com/JOSEALM3IDA/twebtrabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
+ 
 ### CR - Conhecimento e Raciocínio
 
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
@@ -40,4 +44,12 @@ Trabalhos por disciplina
 - [PWEB-notas](https://github.com/ISEC-estudantes/PWEB-notas) mantido por [OnikenX](https://github.com/OnikenX)
 
     Resoluções de PWEB (relacionado a C# e .Net)
+    
+- [PROG-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
+
+    Exercícios resolvidos dos guiões laboratorias de Programação (2020).
+    
+- [IP-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/IP-2019) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
+
+    Exercícios resolvidos das fichas laboratoriais e exames de Introdução à Programação (2019).
 
