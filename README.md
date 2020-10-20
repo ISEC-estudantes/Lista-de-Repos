@@ -18,10 +18,12 @@ Trabalhos por disciplina
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
  - [tp_prog](https://github.com/TheForgottened/tp_prog) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
  - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
+ - [Covid-Prog](https://github.com/BrunoTeixeira1996/Covid-Prog) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  
 ### TWEB - Tecnologias WEB
 
  - [tweb-quercus](https://github.com/JOSEALM3IDA/twebtrabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
+ - [trabalhoTweb](https://github.com/BrunoTeixeira1996/trabalhoTweb) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [RafaelRibeiro00](https://github.com/RafaelRibeiro00) em 2019
  
 ### CR - Conhecimento e Raciocínio
 
@@ -32,6 +34,8 @@ Trabalhos por disciplina
 - [tp01_am2](https://github.com/TheForgottened/tp01_am2), [tp02_am2](https://github.com/TheForgottened/tp01_am2), [tp03_am2](https://github.com/TheForgottened/tp01_am2) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
 
 - [AT01-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
+
+- [trabalho1](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho1),[trabalho2](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho2),[trabalho3](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
 
 ## Recursos
 
@@ -54,4 +58,14 @@ Trabalhos por disciplina
 - [IP-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/IP-2019) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
     Exercícios resolvidos das fichas laboratoriais e exames de Introdução à Programação (2019).
+
+- [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Resumo para o exame de FCG com todos os conteúdos da cadeira(2020).
+
+- [Apontamentos-TAC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/TAC) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC(2020).
+
+    
 
