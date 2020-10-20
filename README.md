@@ -2,8 +2,6 @@
 
 Esta lista serve para indexar os repos relacionados com as cadeiras de EI do ISEC, repos de trabalhos e recursos para estudar, como notas, exercícios, resoluções, etc.
 
- 
- 
 ## Trabalhos
 
 Trabalhos por disciplina
@@ -32,16 +30,14 @@ Trabalhos por disciplina
 ### AM2 - Análise Matemática 2
 
 - [tp01_am2](https://github.com/TheForgottened/tp01_am2), [tp02_am2](https://github.com/TheForgottened/tp01_am2), [tp03_am2](https://github.com/TheForgottened/tp01_am2) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
-
 - [AT01-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
-
-- [trabalho1](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho1),[trabalho2](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho2),[trabalho3](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
+- [trabalho1](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
 
 ## Recursos
 
-- [Resolucoes-ISEC](https://github.com/ISEC-estudantes/Resolucoes-ISEC), mantido por [Samega7Cattac](https://github.com/Samega7Cattac)
+- [Resolucoes-ISEC](https://github.com/ISEC-estudantes/Resolucoes-ISEC) mantido por [Samega7Cattac](https://github.com/Samega7Cattac)
     
-    Resoluções de exercícios das cadeiras relacionadas com C/C++
+    Resoluções de exercícios das cadeiras relacionadas com C/C++.
 
 - [Math-notes](https://github.com/ISEC-estudantes/Math-notes) mantido por [OnikenX](https://github.com/OnikenX)
 
@@ -49,7 +45,7 @@ Trabalhos por disciplina
 
 - [PWEB-notas](https://github.com/ISEC-estudantes/PWEB-notas) mantido por [OnikenX](https://github.com/OnikenX)
 
-    Resoluções de PWEB (relacionado a C# e .Net)
+    Resoluções de PWEB (relacionado a C# e .NET).
     
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
@@ -61,11 +57,18 @@ Trabalhos por disciplina
 
 - [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
-    Resumo para o exame de FCG com todos os conteúdos da cadeira(2020).
+    Resumo para o exame de FCG com todos os conteúdos da cadeira (2020).
 
 - [Apontamentos-TAC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/TAC) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
-    Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC(2020).
+    Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC (2020).
 
+- [programacao](https://github.com/TheForgottened/programacao) mantido por [TheForgotten](https://github.com/TheForgottened)
+
+    Exercícios resolvidos das aulas práticas da cadeira de Programação (2020).
+
+- [analise_matematica_2](https://github.com/TheForgottened/analise_matematica_2) mantido por [TheForgotten](https://github.com/TheForgottened)
+
+    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
     
 
