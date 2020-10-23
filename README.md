@@ -2,11 +2,11 @@
 
 Esta lista serve para indexar os repos relacionados com as cadeiras de EI do ISEC, repos de trabalhos e recursos para estudar, como notas, exercícios, resoluções, etc.
 
-## Trabalhos
+# Trabalhos
 
 Trabalhos por ano e unidade curricular
  
-### 1º Ano
+## 1º Ano
  
 ### TWEB - Tecnologias WEB
 
@@ -27,7 +27,7 @@ Trabalhos por ano e unidade curricular
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Covid-Prog) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
 
-### 2º Ano
+## 2º Ano
 
 #### POO - Programação Orientada a Objetos
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019
