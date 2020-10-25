@@ -12,6 +12,7 @@ Trabalhos por ano e unidade curricular
 
  - [tweb-quercus](https://github.com/JOSEALM3IDA/twebtrabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
  - [trabalhoTweb](https://github.com/BrunoTeixeira1996/trabalhoTweb) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [RafaelRibeiro00](https://github.com/RafaelRibeiro00) em 2019
+ - [TWEB-2018](https://github.com/ISEC-estudantes/TWEB-2018) feito por [OnikenX](https://github.com/OnikenX) em 2018
  
  ### AM2 - Análise Matemática 2
 
