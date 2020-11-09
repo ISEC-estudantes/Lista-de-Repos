@@ -86,3 +86,6 @@ Trabalhos por ano e unidade curricular
 
     Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
     
+- [apontamentos_lei](https://github.com/TheForgottened/apontamentos_lei) [TheForgotten](https://github.com/TheForgottened)
+
+    Apontamentos de todas as cadeiras (que fiz apontamentos) do tempo que estive no ISEC em LEI.
