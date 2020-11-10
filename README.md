@@ -31,7 +31,7 @@ Trabalhos por ano e unidade curricular
 ## 2º Ano
 
 #### POO - Programação Orientada a Objetos
- - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019
+ - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
 
 ### PA - Programação Avançada
 
