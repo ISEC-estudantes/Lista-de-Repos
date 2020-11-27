@@ -32,6 +32,7 @@ Trabalhos por ano e unidade curricular
 
 #### POO - Programação Orientada a Objetos
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
+ - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
 
 ### PA - Programação Avançada
 
@@ -42,7 +43,17 @@ Trabalhos por ano e unidade curricular
 
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
 
+### SO - Sistemas Operativos
 
+- [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
+
+### IIA - Introdução à Inteligência Artificial
+
+- [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
+
+### IRC - Introdução às Redes de Comunicação
+
+- [IRC matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IRC) feito por Guilherme Curado, ex-aluno do ISEC
 
 ## Recursos
 
