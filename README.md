@@ -97,6 +97,14 @@ Trabalhos por ano e unidade curricular
 
     Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
     
+- [tecnologias_web](https://github.com/TheForgottened/tecnologias_web) mantido por [TheForgotten](https://github.com/TheForgottened)
+
+    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
+
+- [introducao_programacao](https://github.com/TheForgottened/introducao_programacao) mantido por [TheForgotten](https://github.com/TheForgottened)
+
+    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
+
 - [apontamentos_lei](https://github.com/TheForgottened/apontamentos_lei) mantido por [TheForgotten](https://github.com/TheForgottened)
 
     Apontamentos de todas as cadeiras (que fiz apontamentos) do tempo que estive no ISEC em LEI.
