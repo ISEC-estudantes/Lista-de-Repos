@@ -46,6 +46,7 @@ Trabalhos por ano e unidade curricular
 ### SO - Sistemas Operativos
 
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
+- [MSGDIST](https://github.com/ISEC-estudantes/MSGDIST) feito por [OnikenX](https://github.com/OnikenX) em 2019
 
 ### IIA - Introdução à Inteligência Artificial
 
