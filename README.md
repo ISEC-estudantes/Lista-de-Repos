@@ -33,6 +33,7 @@ Trabalhos por ano e unidade curricular
 #### POO - Programação Orientada a Objetos
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
  - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
+ - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts/) e Nuno Honório em 2020/21
 
 ### PA - Programação Avançada
 
