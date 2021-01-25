@@ -34,6 +34,7 @@ Trabalhos por ano e unidade curricular
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
  - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
  - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts/) e Nuno Honório em 2020/21
+ - [TrabalhoPratico_POO](https://github.com/BrunoTeixeira1996/TrabalhoPratico_POO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2021
 
 ### PA - Programação Avançada
 
@@ -52,6 +53,8 @@ Trabalhos por ano e unidade curricular
 ### IIA - Introdução à Inteligência Artificial
 
 - [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
+- [IIA TP1](https://github.com/BrunoTeixeira1996/IIA-Netlogo-TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020
+- [IIA TP2](https://github.com/BrunoTeixeira1996/IIA-TP2) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2021
 
 ### IRC - Introdução às Redes de Comunicação
 
@@ -110,3 +113,11 @@ Trabalhos por ano e unidade curricular
 - [apontamentos_lei](https://github.com/TheForgottened/apontamentos_lei) mantido por [TheForgotten](https://github.com/TheForgottened)
 
     Apontamentos de todas as cadeiras (que fiz apontamentos) do tempo que estive no ISEC em LEI.
+    
+- [Atividades_Exames_IO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IO) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Atividades e exames resolvidos.
+    
+- [Exames_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/exames) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Exames resolvidos, tanto a parte teórica como a parte prática.
