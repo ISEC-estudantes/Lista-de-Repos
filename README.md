@@ -5,7 +5,9 @@ Esta lista serve para indexar os repos relacionados com as cadeiras de EI do ISE
 # Trabalhos
 
 Trabalhos por ano e unidade curricular
- 
+
+---
+
 ## 1º Ano
  
 ### TWEB - Tecnologias WEB
@@ -27,6 +29,8 @@ Trabalhos por ano e unidade curricular
  - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Covid-Prog) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
+
+---
 
 ## 2º Ano
 
@@ -62,7 +66,36 @@ Trabalhos por ano e unidade curricular
 
 - [IRC matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IRC) feito por Guilherme Curado, ex-aluno do ISEC
 
-## Recursos
+---
+
+## 3º Ano
+
+### AM - Arquiteturas Móveis
+- [AMOV-Lista-de-compras](https://github.com/OnikenX/AMOV-Lista-de-compras) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+- [ionic-](https://github.com/ericawallberg/ionic-) (trabalho de investigação) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+- [amov-tp2](https://github.com/ericawallberg/amov-tp2) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+
+
+### ED - Estruturas de Dados
+
+- [Seminário de ED](https://github.com/OnikenX/ED-Seminario) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) em 2020/2021
+
+### GPS - Gestão de Projeto de Software
+
+...
+
+### PD - Programação Distribuída
+
+- [PD_TP_2020_2021_by_OV3](https://github.com/OnikenX/PD_TP_2020_2021_by_OV3) feito por [OnikenX](https://github.com/OnikenX), [joaovalente99](https://github.com/joaovalente99) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+
+### PWEB - Programação WEB
+...
+
+---
+
+# Recursos
+
+Repositórios para notas, resoluções etc. 
 
 - [Resolucoes-ISEC](https://github.com/ISEC-estudantes/Resolucoes-ISEC) mantido por [Samega7Cattac](https://github.com/Samega7Cattac)
     
