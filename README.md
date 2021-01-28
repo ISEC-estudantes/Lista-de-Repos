@@ -157,3 +157,7 @@ Repositórios para notas, resoluções etc.
 - [Exames_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/exames) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
     Exames resolvidos, tanto a parte teórica como a parte prática.
+
+- [Exames e Fichas de IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IRC) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Exames resolvidos, tanto a parte teórica como a parte prática.
