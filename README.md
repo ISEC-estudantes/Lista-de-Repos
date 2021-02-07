@@ -128,10 +128,6 @@ Repositórios para notas, resoluções etc.
 
     Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC (2020).
 
-- [Apontamentos-TAC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/TAC) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
-
-    Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC (2020).
-
 - [licenciatura-engenharia-informatica](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/main) mantido por [TheForgotten](https://github.com/TheForgottened)
 
     Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
