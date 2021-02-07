@@ -18,15 +18,13 @@ Trabalhos por ano e unidade curricular
  
  ### AM2 - Análise Matemática 2
 
-- [tp1_am2](https://github.com/TheForgottened/tp1_am2), [tp2_am2](https://github.com/TheForgottened/tp2_am2), [tp3_am2](https://github.com/TheForgottened/tp3_am2) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
 - [AT01-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
 - [trabalho1](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
 
 ### P - Programação
 
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
- - [tp_prog](https://github.com/TheForgottened/tp_prog) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
- - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
+  - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Covid-Prog) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
 
@@ -130,25 +128,9 @@ Repositórios para notas, resoluções etc.
 
     Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC (2020).
 
-- [programacao](https://github.com/TheForgottened/programacao) mantido por [TheForgotten](https://github.com/TheForgottened)
+- [licenciatura-engenharia-informatica](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/main) mantido por [TheForgotten](https://github.com/TheForgottened)
 
-    Exercícios resolvidos das aulas práticas da cadeira de Programação (2020).
-
-- [analise_matematica_2](https://github.com/TheForgottened/analise_matematica_2) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
-    
-- [tecnologias_web](https://github.com/TheForgottened/tecnologias_web) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
-
-- [introducao_programacao](https://github.com/TheForgottened/introducao_programacao) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
-
-- [apontamentos_lei](https://github.com/TheForgottened/apontamentos_lei) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Apontamentos de todas as cadeiras (que fiz apontamentos) do tempo que estive no ISEC em LEI.
+    Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
     
 - [Atividades_Exames_IO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IO) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
@@ -169,8 +151,7 @@ Repositórios para notas, resoluções etc.
 - [Exames_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IIA/exames) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
     Exames resolvidos.
-    
-    
+       
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
     Exercicios de ER e FN resolvidos.
