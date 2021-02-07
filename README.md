@@ -125,3 +125,16 @@ Trabalhos por ano e unidade curricular
 - [Exames e Fichas de IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IRC) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
     Exames resolvidos, tanto a parte teórica como a parte prática.
+    
+- [Exames_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/estudo_exame) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Exames resolvidos e algumas notas.
+    
+- [Exames_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IIA/exames) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Exames resolvidos.
+    
+    
+- [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+    Exercicios de ER e FN resolvidos.
