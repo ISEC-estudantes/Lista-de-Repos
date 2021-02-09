@@ -5,7 +5,9 @@ Esta lista serve para indexar os repos relacionados com as cadeiras de EI do ISE
 # Trabalhos
 
 Trabalhos por ano e unidade curricular
- 
+
+---
+
 ## 1º Ano
  
 ### TWEB - Tecnologias WEB
@@ -16,25 +18,26 @@ Trabalhos por ano e unidade curricular
  
  ### AM2 - Análise Matemática 2
 
-- [tp1_am2](https://github.com/TheForgottened/tp1_am2), [tp2_am2](https://github.com/TheForgottened/tp2_am2), [tp3_am2](https://github.com/TheForgottened/tp3_am2) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
 - [AT01-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
 - [trabalho1](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
 
 ### P - Programação
 
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
- - [tp_prog](https://github.com/TheForgottened/tp_prog) feito por [TheForgotten](https://github.com/TheForgottened) em 2020
- - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
+  - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Covid-Prog) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
+
+---
 
 ## 2º Ano
 
 #### POO - Programação Orientada a Objetos
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
  - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
- - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts/) e Nuno Honório em 2020/21
- - [TrabalhoPratico_POO](https://github.com/BrunoTeixeira1996/TrabalhoPratico_POO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2021
+ - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts/) e Nuno Honório em 2020/2021
+ - [TrabalhoPratico_POO](https://github.com/BrunoTeixeira1996/TrabalhoPratico_POO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
+ - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
 
 ### PA - Programação Avançada
 
@@ -53,14 +56,45 @@ Trabalhos por ano e unidade curricular
 ### IIA - Introdução à Inteligência Artificial
 
 - [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
-- [IIA TP1](https://github.com/BrunoTeixeira1996/IIA-Netlogo-TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020
-- [IIA TP2](https://github.com/BrunoTeixeira1996/IIA-TP2) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2021
+- [IIA TP1](https://github.com/BrunoTeixeira1996/IIA-Netlogo-TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
+- [IIA TP2](https://github.com/BrunoTeixeira1996/IIA-TP2) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
+- [IIA TP1](https://github.com/fxvnder/IIA_TrabalhoI) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) em 2020/2021
 
 ### IRC - Introdução às Redes de Comunicação
 
 - [IRC matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IRC) feito por Guilherme Curado, ex-aluno do ISEC
 
-## Recursos
+---
+
+## 3º Ano
+
+### AM - Arquiteturas Móveis
+- [AMOV-Lista-de-compras](https://github.com/OnikenX/AMOV-Lista-de-compras) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+- [ionic-](https://github.com/ericawallberg/ionic-) (trabalho de investigação) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+- [amov-tp2](https://github.com/ericawallberg/amov-tp2) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+
+
+### ED - Estruturas de Dados
+
+- [Seminário de ED](https://github.com/OnikenX/ED-Seminario) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) em 2020/2021
+
+### GPS - Gestão de Projeto de Software
+
+- [FindYourPath](https://github.com/OnikenX/FindYourPath) feito por [OnikenX](https://github.com/OnikenX), [D1scak3](https://github.com/D1scak3), [Marco Domingues](https://github.com/Blaldas), [MidgetSlayer](https://github.com/MidgetSlayer) e [SmithGama](https://github.com/SmithGama) em 2020/2021
+
+### PD - Programação Distribuída
+
+- [PD_TP_2020_2021_by_OV3](https://github.com/OnikenX/PD_TP_2020_2021_by_OV3) feito por [OnikenX](https://github.com/OnikenX), [joaovalente99](https://github.com/joaovalente99) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+
+### PWEB - Programação WEB
+
+...
+
+---
+
+# Recursos
+
+Repositórios para notas, resoluções etc. 
 
 - [Resolucoes-ISEC](https://github.com/ISEC-estudantes/Resolucoes-ISEC) mantido por [Samega7Cattac](https://github.com/Samega7Cattac)
     
@@ -94,25 +128,9 @@ Trabalhos por ano e unidade curricular
 
     Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC (2020).
 
-- [programacao](https://github.com/TheForgottened/programacao) mantido por [TheForgotten](https://github.com/TheForgottened)
+- [licenciatura-engenharia-informatica](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/main) mantido por [TheForgotten](https://github.com/TheForgottened)
 
-    Exercícios resolvidos das aulas práticas da cadeira de Programação (2020).
-
-- [analise_matematica_2](https://github.com/TheForgottened/analise_matematica_2) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
-    
-- [tecnologias_web](https://github.com/TheForgottened/tecnologias_web) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
-
-- [introducao_programacao](https://github.com/TheForgottened/introducao_programacao) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Exercícios resolvidos das aulas práticas da cadeira de AM2 (2020).
-
-- [apontamentos_lei](https://github.com/TheForgottened/apontamentos_lei) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Apontamentos de todas as cadeiras (que fiz apontamentos) do tempo que estive no ISEC em LEI.
+    Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
     
 - [Atividades_Exames_IO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IO) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
@@ -133,8 +151,27 @@ Trabalhos por ano e unidade curricular
 - [Exames_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IIA/exames) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
     Exames resolvidos.
-    
-    
+       
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
     Exercicios de ER e FN resolvidos.
+
+- [Materia_Teorica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Te%C3%B3rica%20-%20WikiNote.pdf)
+
+    Toda a matéria teórica lecionada em IIA
+
+- [Materia_Pratica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Pr%C3%A1tica%20-%20WikiNote.pdf)
+
+    Matéria pratica lecionada em IIA
+
+- [Materia_Teorica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Te%C3%B3rica%20-%20WikiNote.pdf)
+
+    Toda a matéria teorica lecionada em IRC
+
+- [Materia_Pratica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Pr%C3%A1tica%20-%20WikiNote.pdf)
+
+    Matéria pratica lecionada em IRC
+
+- [Materia_Teorica_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/POO/Teorica.pdf)
+
+    Toda a matéria teorica lecionada em POO
