@@ -155,3 +155,23 @@ Repositórios para notas, resoluções etc.
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 
     Exercicios de ER e FN resolvidos.
+
+- [Materia_Teorica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+
+    Toda a matéria teórica lecionada em IIA
+
+- [Materia_Pratica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+
+    Matéria pratica lecionada em IIA
+
+- [Materia_Teorica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+
+    Toda a matéria teorica lecionada em IRC
+
+- [Materia_Pratica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+
+    Matéria pratica lecionada em IRC
+
+- [Materia_Teorica_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/POO/Teorica.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+
+    Toda a matéria teorica lecionada em POO
