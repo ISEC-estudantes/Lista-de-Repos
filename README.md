@@ -132,6 +132,7 @@ Trabalhos
 - [Seminário de ED](https://github.com/OnikenX/ED-Seminario) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) em 2020/2021
 
 Recursos
+- [EstruturasDeDados](https://github.com/DanielMoreiraRibeiro/EstruturasDeDados/tree/main) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ...
 
@@ -202,6 +203,10 @@ Repositórios para notas, resoluções etc.
     Material Prático e Teórico de toda a matéria lecionada na cadeira de TAC (2020).
 
 - [licenciatura-engenharia-informatica](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/main) mantido por [TheForgotten](https://github.com/TheForgottened)
+
+    Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
+    
+- [MyHigherEducationExperience](https://github.com/DanielMoreiraRibeiro/MyHigherEducationExperience/tree/main) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
     Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
     
