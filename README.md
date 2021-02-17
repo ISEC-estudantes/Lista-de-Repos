@@ -161,9 +161,11 @@ Recursos
 ### IRC - Introdução às Redes de Comunicação
 
 Trabalhos
+
 ...
 
 Recursos
+
 - [IRC matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IRC) feito por Guilherme Curado, ex-aluno do ISEC
 - [Exercícios IRC 2020/2021](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/IRC-2020/Fichas) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
 - [Exames e Fichas de IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IRC) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
@@ -186,7 +188,7 @@ Trabalhos
 
 Recursos
 
-...
+- [AMOV-notes](https://github.com/ISEC-estudantes/AMOV-notes) mantido por [OnikenX](https://github.com/OnikenX)
 
 ### ED - Estruturas de Dados
 
@@ -216,7 +218,6 @@ Recursos
 
 ...
 
-
 ### PWEB - Programação WEB
 
 Trabalhos
@@ -225,7 +226,7 @@ Trabalhos
 
 Recursos
 
-...
+- [PWEB-notas](https://github.com/ISEC-estudantes/PWEB-notas) mantido por [OnikenX](https://github.com/OnikenX)    
 
 ---
 
@@ -237,17 +238,13 @@ Repositórios para notas, resoluções etc.
     
     Resoluções de exercícios das cadeiras relacionadas com C/C++.
 
+- [JAVA-notes](https://github.com/ISEC-estudantes/JAVA-notes) mantido por [OnikenX](https://github.com/OnikenX)
+
+    Notas das disciplinas em que se usa principalmente JAVA como PD, ED ~~e PA~~(por adicionar).
+
 - [Math-notes](https://github.com/ISEC-estudantes/Math-notes) mantido por [OnikenX](https://github.com/OnikenX)
 
     Notas e resoluções de exercícios das disciplinas de matemática.
-
-- [PWEB-notas](https://github.com/ISEC-estudantes/PWEB-notas) mantido por [OnikenX](https://github.com/OnikenX)
-
-    Resoluções de PWEB (relacionado a C# e .NET).
-    
-- [AMOV-notes](https://github.com/ISEC-estudantes/AMOV-notes) mantido por [OnikenX](https://github.com/OnikenX)
-
-    Projetos para android feitos para ou nas aulas de AMOV
 
 - [Material ISEC](https://github.com/JOSEALM3IDA/Material-ISEC) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
