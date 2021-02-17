@@ -62,8 +62,6 @@ Trabalhos
 Recursos
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
----
-
 ### FCG - Fundamentos da Computação Gráfica
 
 Trabalhos
@@ -72,6 +70,8 @@ Trabalhos
 
 Recursos
 - [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+
+---
 
 ## 2º Ano
 
@@ -89,7 +89,7 @@ Recursos
 
 Trabalhos
 
-...
+- [Sistema de Entregas](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/BD-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA), [TheForgotten](https://github.com/TheForgottened) e [ianmooonee](https://github.com/ianmooonee) em 2020
 
 Recursos
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) mantido por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
