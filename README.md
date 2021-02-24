@@ -154,7 +154,7 @@ Trabalhos
 
 Recursos
 
-...
+- [SistemasOperativosII-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/SistemasOperativosII-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ### IIA - Introdução à Inteligência Artificial
 
