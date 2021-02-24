@@ -259,6 +259,6 @@ Repositórios para notas, resoluções etc.
 
     Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
     
-- [MyHigherEducationExperience](https://github.com/DanielMoreiraRibeiro/MyHigherEducationExperience/tree/main) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
+- [MyHigherEducationExperience](https://github.com/DanielMoreiraRibeiro/MyHigherEducationExperience) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
     Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
