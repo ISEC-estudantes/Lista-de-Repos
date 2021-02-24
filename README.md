@@ -201,7 +201,7 @@ Trabalhos
 - [Seminário de ED](https://github.com/OnikenX/ED-Seminario) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) em 2020/2021
 
 Recursos
-- [EstruturasDeDados](https://github.com/DanielMoreiraRibeiro/EstruturasDeDados/tree/main) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
+- [EstruturasDeDados-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/EstruturasDeDados-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ...
 
