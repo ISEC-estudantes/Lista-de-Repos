@@ -120,8 +120,7 @@ Trabalhos
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
  
 Recursos
-
-...
+- [ProgramacaoAvancada-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/ProgramacaoAvancada-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ### CR - Conhecimento e Raciocínio
 
