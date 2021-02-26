@@ -230,8 +230,7 @@ Trabalhos
 - [PD_TP_2020_2021_by_OV3](https://github.com/OnikenX/PD_TP_2020_2021_by_OV3) feito por [OnikenX](https://github.com/OnikenX), [joaovalente99](https://github.com/joaovalente99) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 
 Recursos
-
-...
+- [ProgramacaoDistribuida-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/ProgramacaoDistribuida-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ### PWEB - Programação WEB
 
