@@ -2,9 +2,36 @@
 
 Esta lista serve para indexar os repos relacionados com as cadeiras de EI do ISEC, repos de trabalhos e recursos para estudar, como notas, exercícios, resoluções, etc.
 
+- [Cadeiras](#cadeiras)
+- [Repositórios Geral](#repositórios-geral)
+
 # Cadeiras
 
 Trabalhos e recursos por ano e unidade curricular
+
+  - [1º Ano](#1º-ano)
+    - [IP - Introdução à Programação](#ip---introdução-à-programação)
+    - [TWEB - Tecnologias WEB](#tweb---tecnologias-web)
+    - [TAC - Tecnologia e Arquitetura de Computadores](#tac---tecnologia-e-arquitetura-de-computadores)
+    - [AM2 - Análise Matemática 2](#am2---análise-matemática-2)
+    - [P - Programação](#p---programação)
+    - [FCG - Fundamentos da Computação Gráfica](#fcg---fundamentos-da-computação-gráfica)
+  - [2º Ano](#2º-ano)
+    - [IO - Investigação Operacional](#io---investigação-operacional)
+    - [BD - Base de Dados](#bd---base-de-dados)
+    - [POO - Programação Orientada a Objetos](#poo---programação-orientada-a-objetos)
+    - [PA - Programação Avançada](#pa---programação-avançada)
+    - [CR - Conhecimento e Raciocínio](#cr---conhecimento-e-raciocínio)
+    - [SO - Sistemas Operativos](#so---sistemas-operativos)
+    - [SO2 - Sistemas Operativos II](#so2---sistemas-operativos-ii)
+    - [IIA - Introdução à Inteligência Artificial](#iia---introdução-à-inteligência-artificial)
+    - [IRC - Introdução às Redes de Comunicação](#irc---introdução-às-redes-de-comunicação)
+  - [3º Ano](#3º-ano)
+    - [AMOV - Arquiteturas Móveis](#amov---arquiteturas-móveis)
+    - [ED - Estruturas de Dados](#ed---estruturas-de-dados)
+    - [GPS - Gestão de Projeto de Software](#gps---gestão-de-projeto-de-software)
+    - [PD - Programação Distribuída](#pd---programação-distribuída)
+    - [PWEB - Programação WEB](#pweb---programação-web)
 
 ---
 
@@ -32,7 +59,7 @@ Recursos
 
 ...
 
-## TAC - Tecnologia e Arquitetura de Computadores
+### TAC - Tecnologia e Arquitetura de Computadores
 
 Trabalhos
 
