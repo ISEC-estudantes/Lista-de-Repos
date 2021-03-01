@@ -231,6 +231,7 @@ Trabalhos
 Recursos
 
 - [AMOV-notes](https://github.com/ISEC-estudantes/AMOV-notes) mantido por [OnikenX](https://github.com/OnikenX)
+- [ArquiteturasMoveis-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/ArquiteturasMoveis-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ### ED - Estruturas de Dados
 
