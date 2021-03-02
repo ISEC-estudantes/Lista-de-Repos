@@ -147,7 +147,8 @@ Trabalhos
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
  
 Recursos
-- [ProgramacaoAvancada-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/ProgramacaoAvancada-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
+
+...
 
 ### CR - Conhecimento e Raciocínio
 
@@ -171,7 +172,6 @@ Recursos
 - [Exames_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/estudo_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Pratica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Pr%C3%A1tica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Teorica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Te%C3%B3rica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
-- [SistemasOperativos-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/SistemasOperativos-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ### SO2 - Sistemas Operativos II
 
@@ -181,7 +181,7 @@ Trabalhos
 
 Recursos
 
-- [SistemasOperativosII-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/SistemasOperativosII-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
+...
 
 ### IIA - Introdução à Inteligência Artificial
 
@@ -231,7 +231,6 @@ Trabalhos
 Recursos
 
 - [AMOV-notes](https://github.com/ISEC-estudantes/AMOV-notes) mantido por [OnikenX](https://github.com/OnikenX)
-- [ArquiteturasMoveis-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/ArquiteturasMoveis-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ### ED - Estruturas de Dados
 
@@ -239,7 +238,6 @@ Trabalhos
 - [Seminário de ED](https://github.com/OnikenX/ED-Seminario) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) em 2020/2021
 
 Recursos
-- [EstruturasDeDados-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/EstruturasDeDados-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
 ...
 
@@ -258,7 +256,8 @@ Trabalhos
 - [PD_TP_2020_2021_by_OV3](https://github.com/OnikenX/PD_TP_2020_2021_by_OV3) feito por [OnikenX](https://github.com/OnikenX), [joaovalente99](https://github.com/joaovalente99) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 
 Recursos
-- [ProgramacaoDistribuida-LEI-ISEC](https://github.com/DanielMoreiraRibeiro/ProgramacaoDistribuida-LEI-ISEC) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
+
+...
 
 ### PWEB - Programação WEB
 
@@ -293,9 +292,5 @@ Repositórios para notas, resoluções etc.
     Mateiral que fui fazendo e/ou recebendo durante a minha licenciatura.
 
 - [licenciatura-engenharia-informatica](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/main) mantido por [TheForgotten](https://github.com/TheForgottened)
-
-    Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
-    
-- [MyHigherEducationExperience](https://github.com/DanielMoreiraRibeiro/MyHigherEducationExperience) mantido por [DanielMoreiraRibeiro](https://github.com/DanielMoreiraRibeiro)
 
     Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
