@@ -45,13 +45,13 @@ Trabalhos
 
 Recursos
 
-- [IP-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/IP-2019) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
+- [IP-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/IP-2019) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
  
 ### TWEB - Tecnologias WEB
 
 Trabalhos
- - [tweb-quercus](https://github.com/JOSEALM3IDA/twebtrabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
+ - [tweb-quercus](https://github.com/JOSEALM3IDA/isec-trabalho-tweb) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
  - [trabalhoTweb](https://github.com/BrunoTeixeira1996/trabalhoTweb) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [RafaelRibeiro00](https://github.com/RafaelRibeiro00) em 2019
  - [TWEB-2018](https://github.com/ISEC-estudantes/TWEB-2018) feito por [OnikenX](https://github.com/OnikenX) em 2018
  
@@ -71,7 +71,7 @@ Recursos
  ### AM2 - Análise Matemática 2
 
 Trabalhos
-- [AT01-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
+- [AT01-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
 - [trabalho1](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/MATLAB_AM2/tree/master/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
 
 Recursos
@@ -82,12 +82,12 @@ Recursos
 
 Trabalhos
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
-  - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
+  - [P-virus2020](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Covid-Prog) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
 
 Recursos
-- [PROG-exercicios](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
+- [PROG-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
 ### FCG - Fundamentos da Computação Gráfica
 
@@ -116,7 +116,7 @@ Recursos
 
 Trabalhos
 
-- [Sistema de Entregas](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/BD-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA), [TheForgotten](https://github.com/TheForgottened) e [ianmooonee](https://github.com/ianmooonee) em 2020
+- [Sistema de Entregas](https://github.com/JOSEALM3IDA/isec-material/tree/main/BD-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA), [TheForgotten](https://github.com/TheForgottened) e [ianmooonee](https://github.com/ianmooonee) em 2020
 
 Recursos
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
@@ -131,11 +131,11 @@ Trabalhos
  - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts/) e Nuno Honório em 2020/2021
  - [TrabalhoPratico_POO](https://github.com/BrunoTeixeira1996/TrabalhoPratico_POO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
  - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
- - [ISEC TOTAL WAR](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/POO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
+ - [ISEC TOTAL WAR](https://github.com/JOSEALM3IDA/isec-material/tree/main/POO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 
 Recursos
 - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
-- [Exercícios POO 2020/2021](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/POO-2020/Exercicios) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2021/2021
+- [Exercícios POO 2020/2021](https://github.com/JOSEALM3IDA/isec-material/tree/main/POO-2020/Exercicios) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2021/2021
 - [Exames_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/exames) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 - [Materia_Teorica_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/POO/Teorica.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
 
@@ -163,12 +163,12 @@ Recursos
 
 Trabalhos
 - [MSGDIST](https://github.com/ISEC-estudantes/MSGDIST) feito por [OnikenX](https://github.com/OnikenX) em 2019
-- [Sistema Champion](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/SO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
+- [Sistema Champion](https://github.com/JOSEALM3IDA/isec-material/tree/main/SO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [TP-SO](https://github.com/BrunoTeixeira1996/TP_SO) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
-- [Exercícios SO 2020/2021](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/SO-2020/P) feitos por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
+- [Exercícios SO 2020/2021](https://github.com/JOSEALM3IDA/isec-material/tree/main/SO-2020/P) feitos por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
 - [Exames_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/estudo_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Pratica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Pr%C3%A1tica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Teorica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Te%C3%B3rica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
@@ -189,12 +189,12 @@ Trabalhos
 - [IIA TP1](https://github.com/BrunoTeixeira1996/IIA-Netlogo-TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
 - [IIA TP2](https://github.com/BrunoTeixeira1996/IIA-TP2) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
 - [IIA TP1](https://github.com/fxvnder/IIA_TrabalhoI) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) em 2020/2021
-- [TP1 - Agentes Racionais](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/IIA-2020/Trabalhos/TP1) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
-- [TP2 - Problema de Otimização](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/IIA-2020/Trabalhos/TP2) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
+- [TP1 - Agentes Racionais](https://github.com/JOSEALM3IDA/isec-material/tree/main/IIA-2020/Trabalhos/TP1) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
+- [TP2 - Problema de Otimização](https://github.com/JOSEALM3IDA/isec-material/tree/main/IIA-2020/Trabalhos/TP2) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 
 Recursos
 - [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
-- [Resumo Teórico e Prático](https://github.com/JOSEALM3IDA/Material-ISEC/blob/main/IIA-2020/Resumo.txt) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
+- [Resumo Teórico e Prático](https://github.com/JOSEALM3IDA/isec-material/blob/main/IIA-2020/Resumo.txt) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
 - [Materia_Pratica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
 - [Exames_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IIA/exames) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 - [Materia_Teorica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
@@ -209,7 +209,7 @@ Trabalhos
 Recursos
 
 - [IRC matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IRC) feito por Guilherme Curado, ex-aluno do ISEC
-- [Exercícios IRC 2020/2021](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/IRC-2020/Fichas) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
+- [Exercícios IRC 2020/2021](https://github.com/JOSEALM3IDA/isec-material/tree/main/IRC-2020/Fichas) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
 - [Exames e Fichas de IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IRC) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 - [Materia_Teorica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
 
@@ -287,7 +287,7 @@ Repositórios para notas, resoluções etc.
 
     Notas e resoluções de exercícios das disciplinas de matemática.
 
-- [Material ISEC](https://github.com/JOSEALM3IDA/Material-ISEC) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
+- [Material ISEC](https://github.com/JOSEALM3IDA/isec-material) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
     Mateiral que fui fazendo e/ou recebendo durante a minha licenciatura.
 
