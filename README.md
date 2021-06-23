@@ -145,6 +145,7 @@ Recursos
 Trabalhos
 - [Planet_Bound](https://github.com/ISEC-estudantes/Planet_Bound) feito por [OnikenX](https://github.com/OnikenX) em 2020
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
+- [Connect4](https://github.com/sirNugg3ts/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
  
 Recursos
 
