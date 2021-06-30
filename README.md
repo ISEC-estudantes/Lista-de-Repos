@@ -26,6 +26,11 @@ Trabalhos e recursos por ano e unidade curricular
     - [SO2 - Sistemas Operativos II](#so2---sistemas-operativos-ii)
     - [IIA - Introdução à Inteligência Artificial](#iia---introdução-à-inteligência-artificial)
     - [IRC - Introdução às Redes de Comunicação](#irc---introdução-às-redes-de-comunicação)
+    - [CE - Cablagem Estruturada](#ce--cablagem-estruturada)
+    - [ED - Encaminhamento de Dados](#ed-encaminhamento-de-dados)
+    - [EI - Empreendorismo e Inovação](#ei-empreendorismo-e-inovação)
+    - [S - Segurança](#s-segurança)
+    - [SR1 - Seviços de Rede 1](#sr1-serviços-de-rede-1)
   - [3º Ano](#3º-ano)
     - [AMOV - Arquiteturas Móveis](#amov---arquiteturas-móveis)
     - [ED - Estruturas de Dados](#ed---estruturas-de-dados)
@@ -52,7 +57,7 @@ Recursos
 
 Trabalhos
  - [tweb-quercus](https://github.com/JOSEALM3IDA/isec-trabalho-tweb) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
- - [trabalhoTweb](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/1%C2%BASemestre/TWEB/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [RafaelRibeiro00](https://github.com/RafaelRibeiro00) em 2019
+ - [trabalhoTweb](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/1%C2%BASemestre/TWEB/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [RafaelRibeiro00](https://github.com/RafaelRibeiro00) em 2019/2020
  - [TWEB-2018](https://github.com/ISEC-estudantes/TWEB-2018) feito por [OnikenX](https://github.com/OnikenX) em 2018
  
 Recursos
@@ -74,7 +79,7 @@ Recursos
 
 Trabalhos
 - [AT01-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
-- [trabalho1](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP1/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP2/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP3/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
+- [trabalho1](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP1/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP2/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP3/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
 
 Recursos
 
@@ -99,7 +104,7 @@ Trabalhos
 ...
 
 Recursos
-- [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+- [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
 
 ---
 
@@ -139,8 +144,8 @@ Trabalhos
 Recursos
 - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
 - [Exercícios POO 2020/2021](https://github.com/JOSEALM3IDA/isec-material/tree/main/POO-2020/Exercicios) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2021/2021
-- [Exames_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/exames) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
-- [Materia_Teorica_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/POO/Teorica.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+- [Exames_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/exames) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
+- [Materia_Teorica_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/POO/Teorica.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
 
 
 ### PA - Programação Avançada
@@ -199,9 +204,9 @@ Trabalhos
 Recursos
 - [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
 - [Resumo Teórico e Prático](https://github.com/JOSEALM3IDA/isec-material/blob/main/IIA-2020/Resumo.txt) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
-- [Materia_Pratica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
-- [Exames_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IIA/exames) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
-- [Materia_Teorica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+- [Materia_Pratica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
+- [Exames_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IIA/exames) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
+- [Materia_Teorica_IIA](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IIA/(IIA)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
 
 
 ### IRC - Introdução às Redes de Comunicação
@@ -214,13 +219,79 @@ Recursos
 
 - [IRC matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IRC) feito por Guilherme Curado, ex-aluno do ISEC
 - [Exercícios IRC 2020/2021](https://github.com/JOSEALM3IDA/isec-material/tree/main/IRC-2020/Fichas) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
-- [Exames e Fichas de IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IRC) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
-- [Materia_Teorica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+- [Exames e Fichas de IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/IRC) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
+- [Materia_Teorica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
 
-- [Materia_Pratica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) (2020/21)
+- [Materia_Pratica_IRC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/IRC/(IRC)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/2021
 
+
+
+### CE - Cablagem Estruturada
+
+Trabalhos 
+
+- [TP_A](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/TP_A) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+- [TP_B](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/TP_B) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+
+Recursos 
+
+...
+
+
+### ED - Encaminhamento de Dados
+
+Trabalhos
+
+- [TP](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/ED/TRABALHO_PRATICO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+ 
+Recursos
+
+- [Estudo-Exame](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/ED/ESTUDO_EXAME) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/ED/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/ED/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+
+### EI - Empreendorismo e Inovação
+
+Trabalhos
+
+...
+
+Recursos
+
+- [Estudo-Exame](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/EI/EXAMES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/EI/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/EI/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+
+### S - Segurança
+
+Trabalhos 
+
+...
+
+Recursos
+
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Estudo-Teste1](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/teste1_estudo.md) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Teste2-Respostas](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/teste2_Seguranca_Respostas) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+### SR1 - Serviços de Rede 1
+
+Trabalhos 
+
+...
+
+Recursos
+
+- [Testes](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SR1/TESTES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Exercicios-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SR1/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 
 ---
+
 
 ## 3º Ano
 
