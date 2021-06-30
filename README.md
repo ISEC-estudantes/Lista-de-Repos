@@ -26,6 +26,11 @@ Trabalhos e recursos por ano e unidade curricular
     - [SO2 - Sistemas Operativos II](#so2---sistemas-operativos-ii)
     - [IIA - Introdução à Inteligência Artificial](#iia---introdução-à-inteligência-artificial)
     - [IRC - Introdução às Redes de Comunicação](#irc---introdução-às-redes-de-comunicação)
+    - [CE - Cablagem Estruturada](#ce--cablagem-estruturada)
+    - [ED - Encaminhamento de Dados](#ed-encaminhamento-de-dados)
+    - [EI - Empreendorismo e Inovação](#ei-empreendorismo-e-inovação)
+    - [S - Segurança](#s-segurança)
+    - [SR1 - Seviços de Rede 1](#sr1-serviços-de-rede-1)
   - [3º Ano](#3º-ano)
     - [AMOV - Arquiteturas Móveis](#amov---arquiteturas-móveis)
     - [ED - Estruturas de Dados](#ed---estruturas-de-dados)
@@ -221,6 +226,72 @@ Recursos
 
 
 ---
+
+### CE - Cablagem Estruturada
+
+Trabalhos 
+
+- [TP_A](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/TP_A) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+- [TP_B](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/TP_B) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+
+Recursos 
+
+...
+
+
+### ED - Encaminhamento de Dados
+
+Trabalhos
+
+- [TP](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/ED/TRABALHO_PRATICO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+ 
+Recursos
+
+- [Estudo-Exame](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/ED/ESTUDO_EXAME) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/ED/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/ED/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+
+### EI - Empreendorismo e Inovação
+
+Trabalhos
+
+...
+
+Recursos
+
+- [Estudo-Exame](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/EI/EXAMES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/EI/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/EI/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+
+### S - Segurança
+
+Trabalhos 
+
+...
+
+Recursos
+
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+- [Estudo-Teste1](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/teste1_estudo.md) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Teste2-Respostas](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/S/teste2_Seguranca_Respostas) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
+### SR1 - Serviços de Rede 1
+
+Trabalhos 
+
+...
+
+Recursos
+
+- [Testes](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SR1/TESTES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Exercicios-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SR1/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+
 
 ## 3º Ano
 
