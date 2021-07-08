@@ -237,8 +237,9 @@ Trabalhos
 
 Recursos 
 
-...
-
+- [Estudo-Exame](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/ESTUDO_EXAME) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/CE/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/CE/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 
 ### ED - Encaminhamento de Dados
 
@@ -289,9 +290,8 @@ Recursos
 
 - [Testes](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SR1/TESTES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Exercicios-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SR1/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
-
----
-
+- [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/SR1/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos-Teóricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/SR1/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 
 ## 3º Ano
 
