@@ -92,6 +92,7 @@ Trabalhos
  - [P-virus2020](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/Programa%C3%A7%C3%A3o/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
+ - [Virus-Propagation-Analysis](https://github.com/Paul-Bob/TP-P-Virus-Propagation-Analysis) feito por [Paul bob](https://github.com/Paul-Bob) em 2020
  - [JogoDoSemaforo](https://github.com/fxvnder/Jogo-do-Semaforo) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder/) em 2021
 
 Recursos
@@ -154,6 +155,7 @@ Trabalhos
 - [Planet_Bound](https://github.com/ISEC-estudantes/Planet_Bound) feito por [OnikenX](https://github.com/OnikenX) em 2020
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
 - [Connect4](https://github.com/sirNugg3ts/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
+- [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
  
 Recursos
 
@@ -174,6 +176,7 @@ Trabalhos
 - [MSGDIST](https://github.com/ISEC-estudantes/MSGDIST) feito por [OnikenX](https://github.com/OnikenX) em 2019
 - [Sistema Champion](https://github.com/JOSEALM3IDA/isec-material/tree/main/SO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [TP-SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [CHAMPION-SYSTEM-UNIX](https://github.com/Paul-Bob/TP-SO-CHAMPION-SYSTEM-UNIX) feito por [Paul bob](https://github.com/Paul-Bob) em 2020/2021
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
