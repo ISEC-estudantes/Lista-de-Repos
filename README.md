@@ -177,6 +177,7 @@ Trabalhos
 - [Sistema Champion](https://github.com/JOSEALM3IDA/isec-material/tree/main/SO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [TP-SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [CHAMPION-SYSTEM-UNIX](https://github.com/Paul-Bob/TP-SO-CHAMPION-SYSTEM-UNIX) feito por [Paul bob](https://github.com/Paul-Bob) em 2020/2021
+- [MEDICALso](https://github.com/zmiguel/MEDICALso) feito por [ZMiguel Valdiviesso](https://github.com/zmiguel) e [Diogo Semião](https://github.com/dsemiao) em 2021/2022
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
