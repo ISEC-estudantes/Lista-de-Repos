@@ -129,8 +129,8 @@ Trabalhos
 
 Recursos
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
-- [Materia_Teorica_SQL](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/BD/(BD)%20SQL%20Te%C3%B3rica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
-- [Materia_Teorica](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/BD/(BD)%20Te%C3%B3rica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Materia_Teorica_SQL](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/BD/(BD)%20SQL%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Materia_Teorica](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/BD/(BD)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 
 
 ### POO - Programação Orientada a Objetos
@@ -183,14 +183,14 @@ Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
 - [Exercícios SO 2020/2021](https://github.com/JOSEALM3IDA/isec-material/tree/main/SO-2020/P) feitos por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/2021
 - [Exames_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/estudo_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
-- [Materia_Pratica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Pr%C3%A1tica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
-- [Materia_Teorica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Te%C3%B3rica%20-%20WikiNote.pdf)feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Materia_Pratica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Materia_Teorica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 
 ### SO2 - Sistemas Operativos II
 
 Trabalhos
 
-...
+- [SO2_TP](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/SO2-20-21/TrabalhoFinal) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 
 Recursos
 
