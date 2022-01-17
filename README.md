@@ -138,6 +138,7 @@ Recursos
 Trabalhos
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
  - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts/) e Nuno Honório em 2020/2021
+ - [TrabalhoPratico-POO-Reloaded](https://github.com/face144/TrabalhoPratico-POO-Reloaded) feito por [face144](https://github.com/face144) e Gonçalo Leite em 2020/2021
  - [TrabalhoPratico_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
  - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
  - [ISEC TOTAL WAR](https://github.com/JOSEALM3IDA/isec-material/tree/main/POO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
