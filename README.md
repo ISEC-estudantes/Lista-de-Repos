@@ -37,6 +37,7 @@ Trabalhos e recursos por ano e unidade curricular
     - [GPS - Gestão de Projeto de Software](#gps---gestão-de-projeto-de-software)
     - [PD - Programação Distribuída](#pd---programação-distribuída)
     - [PWEB - Programação WEB](#pweb---programação-web)
+	- [DD - Disponibilidade e Desempenho](#dd---disponibilidade-e-desempenho)
 
 ---
 
@@ -347,6 +348,21 @@ Trabalhos
 Recursos
 
 - [PWEB-notas](https://github.com/ISEC-estudantes/PWEB-notas) mantido por [OnikenX](https://github.com/OnikenX)    
+
+
+### DD - Disponibilidade e Desempenho
+
+Trabalhos
+
+- [TP-BrunoTeixeira](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/DD/TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+Recursos
+
+- [Apontamentos-Praticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/DD/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/DD/TEORICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Apontamentos-Testes-Semanais](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/DD/TESTES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
 
 ---
 
