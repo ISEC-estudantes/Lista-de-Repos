@@ -206,6 +206,7 @@ Trabalhos
 - [TP1 - Agentes Racionais](https://github.com/JOSEALM3IDA/isec-material/tree/main/IIA-2020/Trabalhos/TP1) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [TP2 - Problema de Otimização](https://github.com/JOSEALM3IDA/isec-material/tree/main/IIA-2020/Trabalhos/TP2) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [Rational_Behaviours](https://github.com/hooper1337/Rational_Behaviours) feito por[Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em 2021/2022
+- [Optimization_Problems](https://github.com/hooper1337/Optimization_Problems) feito por[Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em 2021/2022
 
 Recursos
 - [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
