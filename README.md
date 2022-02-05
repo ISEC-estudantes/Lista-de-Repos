@@ -180,6 +180,8 @@ Trabalhos
 - [TP-SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [CHAMPION-SYSTEM-UNIX](https://github.com/Paul-Bob/TP-SO-CHAMPION-SYSTEM-UNIX) feito por [Paul bob](https://github.com/Paul-Bob) em 2020/2021
 - [MEDICALso](https://github.com/zmiguel/MEDICALso) feito por [ZMiguel Valdiviesso](https://github.com/zmiguel) e [Diogo Semião](https://github.com/dsemiao) em 2021/2022
+- [MEDICAlso](https://github.com/hooper1337/MedicAlso) feito por [Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em
+2021/2022
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
@@ -187,6 +189,7 @@ Recursos
 - [Exames_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/estudo_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Pratica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Teorica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+
 
 ### SO2 - Sistemas Operativos II
 
