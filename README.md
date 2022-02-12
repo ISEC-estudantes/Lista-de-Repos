@@ -38,7 +38,9 @@ Trabalhos e recursos por ano e unidade curricular
     - [PD - Programação Distribuída](#pd---programação-distribuída)
     - [PWEB - Programação WEB](#pweb---programação-web)
 	- [DD - Disponibilidade e Desempenho](#dd---disponibilidade-e-desempenho)
-
+	- [GR - Gestão de Redes](#gr---gestão-de-redes)
+	- [SR2 - Serviços de Rede 2](#sr2-serviços-de-rede-2)
+	- [TL - Tecnologias de Ligação](#tl-tecnologias-de-ligação)
 ---
 
 ## 1º Ano
@@ -370,6 +372,42 @@ Recursos
 - [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/DD/TEORICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
 
 - [Apontamentos-Testes-Semanais](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/DD/TESTES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+### GR - Gestão de Redes
+
+Trabalhos
+
+Recursos
+
+- [Apontamentos-Praticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/GR/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/GR/TEORICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Testes](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/GR/TESTE) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+### SR2 - Serviços de Rede 2
+ 
+Recursos
+
+- [Apontamentos-Praticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/SR2/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/SR2/TEORICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Testes](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/SR2/TESTES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+### TL - Tecnologias de Ligação
+
+Trabalhos
+
+- [TP-2122](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/TL/TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+Recursos
+
+- [Apontamentos-Praticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/TL/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/TL/TEORICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Estudo para Exames](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/TL/EXAMES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
 
 ---
 
