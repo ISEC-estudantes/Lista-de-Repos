@@ -352,11 +352,18 @@ Recursos
 
 Trabalhos
 
-...
+- [TP-PWEB-2122](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/PWEB/TP)  feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2021/22
+
 
 Recursos
 
-- [PWEB-notas](https://github.com/ISEC-estudantes/PWEB-notas) mantido por [OnikenX](https://github.com/OnikenX)    
+- [PWEB-notas](https://github.com/ISEC-estudantes/PWEB-notas) mantido por [OnikenX](https://github.com/OnikenX)
+
+- [Apontamentos-Praticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/3%C2%BAAno/PWEB/PRATICAS/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/3%C2%BAAno/PWEB/TEORICAS/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Exames](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/PWEB/EXAMES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
 
 
 ### DD - Disponibilidade e Desempenho
@@ -384,6 +391,9 @@ Recursos
 - [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/GR/TEORICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
 
 - [Testes](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/GR/TESTE) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [Exames](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/GR/EXAMES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
 
 ### SR2 - Serviços de Rede 2
  
