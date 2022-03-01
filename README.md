@@ -83,6 +83,7 @@ Recursos
 Trabalhos
 - [AT01-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
 - [trabalho1](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP1/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP2/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP3/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
+- [Numerical Methods for Ordinary Differential Equations and Initial Value Problems](https://github.com/TheForgottened/computer-science-engineering/tree/main/AM2/assignments/first-assignment), [Numerical Methods for Systems of Differential Equations](https://github.com/TheForgottened/computer-science-engineering/tree/main/AM2/assignments/second-assignment), [Differentiation and Integration Machine](https://github.com/TheForgottened/computer-science-engineering/tree/main/AM2/assignments/third-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
 
 Recursos
 
@@ -97,6 +98,7 @@ Trabalhos
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
  - [Virus-Propagation-Analysis](https://github.com/Paul-Bob/TP-P-Virus-Propagation-Analysis) feito por [Paul bob](https://github.com/Paul-Bob) em 2020
  - [JogoDoSemaforo](https://github.com/fxvnder/Jogo-do-Semaforo) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder/) em 2021
+ - [Simulation of a Virus' Spread](https://github.com/TheForgottened/computer-science-engineering/tree/main/P/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
 
 Recursos
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
@@ -118,7 +120,7 @@ Recursos
 
 Trabalhos
 
-...
+- [first-assignment](https://github.com/TheForgottened/computer-science-engineering/blob/main/IO/assignments/first-assignment.pdf), [second-assignment](https://github.com/TheForgottened/computer-science-engineering/tree/main/IO/assignments/second-assignment), [third-assignment](https://github.com/TheForgottened/computer-science-engineering/tree/main/IO/assignments/third-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
 
 Recursos
 
@@ -161,6 +163,7 @@ Trabalhos
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
 - [Connect4](https://github.com/sirNugg3ts/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
+- [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
  
 Recursos
 
@@ -170,6 +173,7 @@ Recursos
 
 Trabalhos
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
+- [isec-trabalho-cr](https://github.com/JOSEALM3IDA/isec-trabalho-cr) feito por [TheForgotten](https://github.com/TheForgottened) e [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/21
 
 Recursos
 
@@ -198,7 +202,7 @@ Recursos
 
 Trabalhos
 
-- [SO2_TP](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/SO2-20-21/TrabalhoFinal) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
+- [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 
 Recursos
 
@@ -315,7 +319,7 @@ Trabalhos
 - [AMOV-Lista-de-compras](https://github.com/OnikenX/AMOV-Lista-de-compras) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 - [ionic-](https://github.com/ericawallberg/ionic-) (trabalho de investigação) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 - [amov-tp2](https://github.com/ericawallberg/amov-tp2) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
-
+- [\<Reversi\>](https://github.com/TheForgottened/computer-science-engineering/tree/main/AMov/first-assignment), [Weather](https://github.com/litsame/amov-flutter) feito por [TheForgotten](https://github.com/TheForgottened), [@litsame](https://github.com/litsame), [@pedromnh](https://github.com/pedromnh) em 2021/22
 
 Recursos
 
@@ -325,6 +329,7 @@ Recursos
 
 Trabalhos
 - [Seminário de ED](https://github.com/OnikenX/ED-Seminario) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) em 2020/2021
+- [radix-trie](https://github.com/TheForgottened/computer-science-engineering/blob/main/ED/radix-trie.pptx) feito por [TheForgotten](https://github.com/TheForgottened), [@pedromnh](https://github.com/pedromnh) em 2021/22
 
 Recursos
 
@@ -334,6 +339,7 @@ Recursos
 
 Trabalhos
 - [FindYourPath](https://github.com/OnikenX/FindYourPath) feito por [OnikenX](https://github.com/OnikenX), [D1scak3](https://github.com/D1scak3), [Marco Domingues](https://github.com/Blaldas), [MidgetSlayer](https://github.com/MidgetSlayer) e [SmithGama](https://github.com/SmithGama) em 2020/2021
+- [Flashee](https://github.com/TheForgottened/computer-science-engineering/tree/main/GPS/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened), [@litsame](https://github.com/litsame), [@AlvarSML](https://github.com/AlvarSML), [@brktnmn](https://github.com/brktnmn), [@pedromnh](https://github.com/pedromnh) em 2021/22
 
 Recursos
 
@@ -343,6 +349,7 @@ Recursos
 
 Trabalhos
 - [PD_TP_2020_2021_by_OV3](https://github.com/OnikenX/PD_TP_2020_2021_by_OV3) feito por [OnikenX](https://github.com/OnikenX), [joaovalente99](https://github.com/joaovalente99) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
+- [MetaPD](https://github.com/TheForgottened/computer-science-engineering/tree/main/PD/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened), [@danielmribeiro](https://github.com/danielmribeiro), [@franciscooferreiraa](https://github.com/franciscooferreiraa) em 2021/22
 
 Recursos
 
@@ -441,6 +448,6 @@ Repositórios para notas, resoluções etc.
 
     Mateiral que fui fazendo e/ou recebendo durante a minha licenciatura.
 
-- [licenciatura-engenharia-informatica](https://github.com/TheForgottened/licenciatura-engenharia-informatica/tree/main) mantido por [TheForgotten](https://github.com/TheForgottened)
+- [Computer Science & Engineering](https://github.com/TheForgottened/computer-science-engineering) mantido por [TheForgotten](https://github.com/TheForgottened)
 
-    Todo o material que juntei durante a minha licenciatura de engenharia informática no ISEC.
+    🖥️ All the material I gathered during my degree in Computer Science & Engineering @ ISEC
