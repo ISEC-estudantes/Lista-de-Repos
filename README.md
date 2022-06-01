@@ -72,6 +72,7 @@ Recursos
 Trabalhos
 
 - [Jogo dos Labirintos](https://github.com/fxvnder/JogoDosLabirintos) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) & Pedro "Fallen" Miranda em 2021
+- [Jogo dos Labirintos](https://github.com/Yeshey/x86_64-Assembly-project-2021) feito por [Jonnas](https://github.com/Yeshey) & [Paulitchos](https://github.com/Paulitchos)
 
 ...
 
@@ -188,6 +189,8 @@ Trabalhos
 - [CHAMPION-SYSTEM-UNIX](https://github.com/Paul-Bob/TP-SO-CHAMPION-SYSTEM-UNIX) feito por [Paul bob](https://github.com/Paul-Bob) em 2020/2021
 - [MEDICALso](https://github.com/zmiguel/MEDICALso) feito por [ZMiguel Valdiviesso](https://github.com/zmiguel) e [Diogo Semião](https://github.com/dsemiao) em 2021/2022
 - [MEDICAlso](https://github.com/hooper1337/MedicAlso) feito por [Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em
+2021/2022
+- [MEDICAlso](https://github.com/Paulitchos/Unix_Project-SO) feito por [Jonnas](https://github.com/Yeshey) e [Paulitchos](https://github.com/Paulitchos) em
 2021/2022
 
 Recursos
