@@ -16,6 +16,7 @@ Trabalhos e recursos por ano e unidade curricular
     - [AM2 - Análise Matemática 2](#am2---análise-matemática-2)
     - [P - Programação](#p---programação)
     - [FCG - Fundamentos da Computação Gráfica](#fcg---fundamentos-da-computação-gráfica)
+    - [LS - Linguagens Script](#ls---linguagens-script)
   - [2º Ano](#2º-ano)
     - [IO - Investigação Operacional](#io---investigação-operacional)
     - [BD - Base de Dados](#bd---base-de-dados)
@@ -112,6 +113,15 @@ Trabalhos
 Recursos
 - [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
 
+### LS - Linguagens Script
+
+Trabalhos
+
+...
+
+Recursos
+- [LS-Fichas_Práticas](https://github.com/Paulitchos/LS_Pratica) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/2022
+
 ---
 
 ## 2º Ano
@@ -131,6 +141,7 @@ Recursos
 Trabalhos
 
 - [Sistema de Entregas](https://github.com/JOSEALM3IDA/isec-material/tree/main/BD-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA), [TheForgotten](https://github.com/TheForgottened) e [ianmooonee](https://github.com/ianmooonee) em 2020
+- [Astros](https://github.com/Paulitchos/Base_de_Dados) feito por [Paulitchos](https://github.com/Paulitchos), [Jonnas](https://github.com/Yeshey), [Rafael Gil](https://github.com/RafaelSGil) e [Francisco](https://github.com/fraanciscomendes) em 2021/2022
 
 Recursos
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
