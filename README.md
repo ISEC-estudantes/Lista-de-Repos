@@ -108,7 +108,7 @@ Recursos
 
 Trabalhos
 
-...
+- [Birthday Machine](https://youtu.be/s7v9FK87SHw) feito por [Jonnas](https://github.com/Yeshey). (.blend file download na descrição do video)
 
 Recursos
 - [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
