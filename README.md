@@ -72,7 +72,7 @@ Recursos
 Trabalhos
 
 - [Jogo dos Labirintos](https://github.com/fxvnder/JogoDosLabirintos) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) & Pedro "Fallen" Miranda em 2021
-- [Jogo dos Labirintos](https://github.com/Yeshey/x86_64-Assembly-project-2021) feito por [Jonnas](https://github.com/Yeshey) & [Paulitchos](https://github.com/Paulitchos)
+- [Jogo dos Labirintos](https://github.com/Yeshey/x86_64-Assembly-project-2021) feito por [Jonnas](https://github.com/Yeshey) & [Paulitchos](https://github.com/Paulitchos) em 2020/2021
 
 ...
 
