@@ -105,6 +105,7 @@ Trabalhos
 
 Recursos
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
+- [Prog - Guioes](https://github.com/Nun0Santos/Programacao) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2022
 
 ### FCG - Fundamentos da Computação Gráfica
 
