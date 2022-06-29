@@ -190,6 +190,7 @@ Recursos
 Trabalhos
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
 - [isec-trabalho-cr](https://github.com/JOSEALM3IDA/isec-trabalho-cr) feito por [TheForgotten](https://github.com/TheForgottened) e [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/21
+-[Shape-Recognition-Network](https://github.com/RafaelSGil/Shape-Recognition-Network) feito por [RafaelSGil](https://github.com/RafaelSGil) e [Nuno Santos](https://github.com/Nun0Santos) em 2021/22
 
 Recursos
 
