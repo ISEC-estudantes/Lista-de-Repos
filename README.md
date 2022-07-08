@@ -33,6 +33,7 @@ Trabalhos e recursos por ano e unidade curricular
     - [S - Segurança](#s-segurança)
     - [SR1 - Seviços de Rede 1](#sr1-serviços-de-rede-1)
     - [ID - Integração de dados](#id---integração-de-dados)
+    - [AABD - Arquitetura e Administração de Bases de Dados](#aabd---arquitetura-e-administração-de-bases-de-dados)
   - [3º Ano](#3º-ano)
     - [AMOV - Arquiteturas Móveis](#amov---arquiteturas-móveis)
     - [ED - Estruturas de Dados](#ed---estruturas-de-dados)
@@ -150,6 +151,7 @@ Recursos
 - [Exercicios_BD](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/BD/exercicios_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
 - [Materia_Teorica_SQL](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/BD/(BD)%20SQL%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Teorica](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/BD/(BD)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Fichas_Práticas](https://github.com/Paulitchos/BD_FichasPraticas) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
 
 
 ### POO - Programação Orientada a Objetos
@@ -188,6 +190,7 @@ Recursos
 Trabalhos
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
 - [isec-trabalho-cr](https://github.com/JOSEALM3IDA/isec-trabalho-cr) feito por [TheForgotten](https://github.com/TheForgottened) e [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/21
+- [Shape-Recognition-Network](https://github.com/RafaelSGil/Shape-Recognition-Network) feito por [RafaelSGil](https://github.com/RafaelSGil) e [Nuno Santos](https://github.com/Nun0Santos) em 2021/22
 
 Recursos
 
@@ -335,6 +338,16 @@ Trabalhos
 Recursos
 
 ...
+
+### AABD - Arquitetura e Administração de Bases de Dados
+
+Trabalhos
+
+...
+
+Recursos
+
+-[AABD-Fichas Práticas 21/22](https://github.com/Paulitchos/AABD_FichasPraticas), feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
 
 ## 3º Ano
 
