@@ -103,6 +103,7 @@ Trabalhos
  - [Virus-Propagation-Analysis](https://github.com/Paul-Bob/TP-P-Virus-Propagation-Analysis) feito por [Paul bob](https://github.com/Paul-Bob) em 2020
  - [JogoDoSemaforo](https://github.com/fxvnder/Jogo-do-Semaforo) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder/) em 2021
  - [Simulation of a Virus' Spread](https://github.com/TheForgottened/computer-science-engineering/tree/main/P/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
+ - [Ultimate-Tic-Tac-Toe](https://github.com/Nun0Santos/Ultimate-Tic-Tac-Toe) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2021/2022
 
 Recursos
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
