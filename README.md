@@ -210,6 +210,7 @@ Trabalhos
 2021/2022
 - [MEDICAlso](https://github.com/Paulitchos/Unix_Project-SO) feito por [Jonnas](https://github.com/Yeshey) e [Paulitchos](https://github.com/Paulitchos) em
 2021/2022
+- [MEDICALso](https://github.com/juliodryfish/so) feito por [Júlio](https://github.com/juliodryfish) em 2021/2022
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
