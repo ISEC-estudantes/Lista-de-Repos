@@ -206,9 +206,9 @@ Trabalhos
 - [TP-SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [CHAMPION-SYSTEM-UNIX](https://github.com/Paul-Bob/TP-SO-CHAMPION-SYSTEM-UNIX) feito por [Paul bob](https://github.com/Paul-Bob) em 2020/2021
 - [MEDICALso](https://github.com/zmiguel/MEDICALso) feito por [ZMiguel Valdiviesso](https://github.com/zmiguel) e [Diogo Semião](https://github.com/dsemiao) em 2021/2022
-- [MEDICAlso](https://github.com/hooper1337/MedicAlso) feito por [Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em
+- [MEDICALso](https://github.com/hooper1337/MedicAlso) feito por [Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em
 2021/2022
-- [MEDICAlso](https://github.com/Paulitchos/Unix_Project-SO) feito por [Jonnas](https://github.com/Yeshey) e [Paulitchos](https://github.com/Paulitchos) em
+- [MEDICALso](https://github.com/Paulitchos/Unix_Project-SO) feito por [Jonnas](https://github.com/Yeshey) e [Paulitchos](https://github.com/Paulitchos) em
 2021/2022
 - [MEDICALso](https://github.com/juliodryfish/so) feito por [Júlio](https://github.com/juliodryfish) em 2021/2022
 
