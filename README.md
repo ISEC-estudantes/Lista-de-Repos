@@ -182,6 +182,7 @@ Trabalhos
 - [Connect4](https://github.com/sirNugg3ts/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
 - [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
+- [GPoE](https://github.com/rub3n-s/GPoE) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022
  
 Recursos
 
