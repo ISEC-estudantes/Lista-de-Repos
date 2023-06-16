@@ -123,7 +123,7 @@ Recursos
 
 Trabalhos
 
-...
+- [Ultimate-Tic-Tac-Toe](https://github.com/rub3n-s/Ultimate-Tic-Tac-Toe) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
 
 Recursos
 - [LS-Fichas_Práticas](https://github.com/Paulitchos/LS_Pratica) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/2022
