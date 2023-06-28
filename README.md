@@ -123,7 +123,7 @@ Recursos
 
 Trabalhos
 
-...
+- [Ultimate-Tic-Tac-Toe](https://github.com/rub3n-s/Ultimate-Tic-Tac-Toe) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
 
 Recursos
 - [LS-Fichas_Práticas](https://github.com/Paulitchos/LS_Pratica) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/2022
@@ -182,7 +182,8 @@ Trabalhos
 - [Connect4](https://github.com/sirNugg3ts/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
 - [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
- 
+- [GPoE](https://github.com/rub3n-s/GPoE) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022
+
 Recursos
 
 ...
@@ -193,6 +194,7 @@ Trabalhos
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
 - [isec-trabalho-cr](https://github.com/JOSEALM3IDA/isec-trabalho-cr) feito por [TheForgotten](https://github.com/TheForgottened) e [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/21
 - [Shape-Recognition-Network](https://github.com/RafaelSGil/Shape-Recognition-Network) feito por [RafaelSGil](https://github.com/RafaelSGil) e [Nuno Santos](https://github.com/Nun0Santos) em 2021/22
+- [CR-22-23](https://github.com/rub3n-s/CR-22-23) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
 
 Recursos
 
