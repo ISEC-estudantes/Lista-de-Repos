@@ -65,6 +65,8 @@ Trabalhos
  - [tweb-quercus](https://github.com/JOSEALM3IDA/isec-trabalho-tweb) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
  - [trabalhoTweb](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/1%C2%BASemestre/TWEB/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [RafaelRibeiro00](https://github.com/RafaelRibeiro00) em 2019/2020
  - [TWEB-2018](https://github.com/ISEC-estudantes/TWEB-2018) feito por [OnikenX](https://github.com/OnikenX) em 2018
+
+ - [TWEB-2022/2023](https://github.com/Rreis019/TrabalhoPraticoTWEB-ACP) feito por [Rodrigo Reis](https://github.com/Rreis019) e Renato Santos em 2022/2023
  
 Recursos
 
@@ -76,6 +78,8 @@ Trabalhos
 
 - [Jogo dos Labirintos](https://github.com/fxvnder/JogoDosLabirintos) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) & Pedro "Fallen" Miranda em 2021
 - [Jogo dos Labirintos](https://github.com/Yeshey/x86_64-Assembly-project-2021) feito por [Jonnas](https://github.com/Yeshey) & [Paulitchos](https://github.com/Paulitchos) em 2020/2021
+
+- [Ultimate TicTacToe](https://github.com/Rreis019/TrabalhoPraticoTAC-UltimateTicTacToe) feito por [Rodrigo Reis](https://github.com/Rreis019) & [Diogo Ribeiro](https://github.com/DiogoRib) em 2022/2023
 
 ...
 
@@ -124,6 +128,8 @@ Recursos
 Trabalhos
 
 - [Ultimate-Tic-Tac-Toe](https://github.com/rub3n-s/Ultimate-Tic-Tac-Toe) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
+
+- [Ultimate-Tic-Tac-Toe](https://github.com/Rreis019/TrabalhoPraticoLS-UltimateTicTacToe) feito por [Rodrigo Reis](https://github.com/Rreis019) em 2022/2023
 
 Recursos
 - [LS-Fichas_Práticas](https://github.com/Paulitchos/LS_Pratica) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/2022
