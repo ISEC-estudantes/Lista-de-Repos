@@ -103,7 +103,7 @@ Trabalhos
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
  - [P-virus2020](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/Programa%C3%A7%C3%A3o/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
- - [Propagacao_Virus](https://github.com/TrabalhoP_Simulacao_Propagacao_Virus) feito por [ (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
+ - [Propagacao_Virus](https://github.com/sirnugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [ (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
  - [Virus-Propagation-Analysis](https://github.com/Paul-Bob/TP-P-Virus-Propagation-Analysis) feito por [Paul bob](https://github.com/Paul-Bob) em 2020
  - [JogoDoSemaforo](https://github.com/fxvnder/Jogo-do-Semaforo) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder/) em 2021
  - [Simulation of a Virus' Spread](https://github.com/TheForgottened/computer-science-engineering/tree/main/P/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
@@ -166,7 +166,7 @@ Recursos
 
 Trabalhos
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
- - [TP-POO2021-Civilization](https://github.com/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts) e Nuno Honório em 2020/2021
+ - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts) e Nuno Honório em 2020/2021
  - [TrabalhoPratico-POO-Reloaded](https://github.com/face144/TrabalhoPratico-POO-Reloaded) feito por [face144](https://github.com/face144) e Gonçalo Leite em 2020/2021
  - [TrabalhoPratico_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
  - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
@@ -185,7 +185,7 @@ Recursos
 Trabalhos
 - [Planet_Bound](https://github.com/ISEC-estudantes/Planet_Bound) feito por [OnikenX](https://github.com/OnikenX) em 2020
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
-- [Connect4](https://github.com/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
+- [Connect4](https://github.com/sirNugg3ts/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
 - [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
 - [GPoE](https://github.com/rub3n-s/GPoE) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022
