@@ -192,6 +192,8 @@ Trabalhos
 
 Recursos
 
+- [PA](https://github.com/sirNugg3ts/PA) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
+
 ...
 
 ### CR - Conhecimento e Raciocínio
@@ -219,6 +221,8 @@ Trabalhos
 - [MEDICALso](https://github.com/Paulitchos/Unix_Project-SO) feito por [Jonnas](https://github.com/Yeshey) e [Paulitchos](https://github.com/Paulitchos) em
 2021/2022
 - [MEDICALso](https://github.com/juliodryfish/so) feito por [Júlio](https://github.com/juliodryfish) em 2021/2022
+- [Trabalho_SO_2021](https://github.com/sirNugg3ts/Trabalho_SO_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
+- [MEDICALso](https://github.com/sirNugg3ts/TP_SO_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
@@ -226,6 +230,7 @@ Recursos
 - [Exames_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/estudo_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Pratica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Teorica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Apontamentos_SO](https://github.com/sirNugg3ts/Apontamentos_SO) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
 
 
 ### SO2 - Sistemas Operativos II
@@ -233,10 +238,12 @@ Recursos
 Trabalhos
 
 - [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
+- [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT)
 
 Recursos
 
 - [SO2 matéria e exercicios](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SO2) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
+- [Material_SO2](https://github.com/sirNugg3ts/Material_SO2) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
 
 ### IIA - Introdução à Inteligência Artificial
 
@@ -369,10 +376,14 @@ Trabalhos
 - [ionic-](https://github.com/ericawallberg/ionic-) (trabalho de investigação) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 - [amov-tp2](https://github.com/ericawallberg/amov-tp2) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 - [\<Reversi\>](https://github.com/TheForgottened/computer-science-engineering/tree/main/AMov/first-assignment), [Weather](https://github.com/litsame/amov-flutter) feito por [TheForgotten](https://github.com/TheForgottened), [@litsame](https://github.com/litsame), [@pedromnh](https://github.com/pedromnh) em 2021/22
+- [TP-AMOV-2022](https://github.com/sirNugg3ts/TP_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009)
+- [TP2-AMOV-2022](https://github.com/sirNugg3ts/TP2_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009)
+
 
 Recursos
 
 - [AMOV-notes](https://github.com/ISEC-estudantes/AMOV-notes) mantido por [OnikenX](https://github.com/OnikenX)
+- [AMOV_Aulas](https://github.com/sirNugg3ts/AMOV_Aulas) mantido por [SirNugg3ts](https://github.com/sirNugg3ts)
 
 ### ED - Estruturas de Dados
 
@@ -382,6 +393,7 @@ Trabalhos
 
 Recursos
 
+- [Estrutura_Dados](https://github.com/sirNugg3ts/Estrutura_Dados) mantido por [SirNugg3ts](https://github.com/sirNugg3ts)
 ...
 
 ### GPS - Gestão de Projeto de Software
@@ -409,6 +421,7 @@ Recursos
 Trabalhos
 
 - [TP-PWEB-2122](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/PWEB/TP)  feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2021/22
+- [TP_PWEB_2122](https://github.com/sirNugg3ts/TP_PWEB_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGunPT](https://github.com/DarkGunPT)
 
 
 Recursos
