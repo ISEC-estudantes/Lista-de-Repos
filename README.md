@@ -103,7 +103,7 @@ Trabalhos
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
  - [P-virus2020](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/Programa%C3%A7%C3%A3o/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
- - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
+ - [Propagacao_Virus](https://github.com//TrabalhoP_Simulacao_Propagacao_Virus) feito por [ (Diogo Pascoal)](https://github.com/) em 2020
  - [Virus-Propagation-Analysis](https://github.com/Paul-Bob/TP-P-Virus-Propagation-Analysis) feito por [Paul bob](https://github.com/Paul-Bob) em 2020
  - [JogoDoSemaforo](https://github.com/fxvnder/Jogo-do-Semaforo) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder/) em 2021
  - [Simulation of a Virus' Spread](https://github.com/TheForgottened/computer-science-engineering/tree/main/P/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
@@ -166,7 +166,7 @@ Recursos
 
 Trabalhos
  - [TP-POO1920-RaceCars](https://github.com/stark75/TP-POO1920-RaceCars) feito por [stark75](https://github.com/stark75) e [Bastozzz](https://github.com/Bastozzz) em 2019/2020
- - [TP-POO2021-Civilization](https://github.com/sirNugg3ts/TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com/sirNugg3ts/) e Nuno Honório em 2020/2021
+ - [TP-POO2021-Civilization](https://github.com//TrabalhoPOO_2020) feito por [Diogo Pascoal](https://github.com//) e Nuno Honório em 2020/2021
  - [TrabalhoPratico-POO-Reloaded](https://github.com/face144/TrabalhoPratico-POO-Reloaded) feito por [face144](https://github.com/face144) e Gonçalo Leite em 2020/2021
  - [TrabalhoPratico_POO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/POO/TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
  - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
@@ -185,14 +185,14 @@ Recursos
 Trabalhos
 - [Planet_Bound](https://github.com/ISEC-estudantes/Planet_Bound) feito por [OnikenX](https://github.com/OnikenX) em 2020
 - [projeto_java_cadeira_PA](https://github.com/ISEC-estudantes/projeto_java_cadeira_PA) feito por [Blaldas](https://github.com/Blaldas) em 2020
-- [Connect4](https://github.com/sirNugg3ts/Trabalho_PA_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
+- [Connect4](https://github.com//Trabalho_PA_2021) feito por [](https://github.com/) em 2021
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
 - [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
 - [GPoE](https://github.com/rub3n-s/GPoE) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022
 
 Recursos
 
-- [PA](https://github.com/sirNugg3ts/PA) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
+- [PA](https://github.com/sirNugg3ts/PA) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
 
 ...
 
@@ -221,8 +221,8 @@ Trabalhos
 - [MEDICALso](https://github.com/Paulitchos/Unix_Project-SO) feito por [Jonnas](https://github.com/Yeshey) e [Paulitchos](https://github.com/Paulitchos) em
 2021/2022
 - [MEDICALso](https://github.com/juliodryfish/so) feito por [Júlio](https://github.com/juliodryfish) em 2021/2022
-- [Trabalho_SO_2021](https://github.com/sirNugg3ts/Trabalho_SO_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
-- [MEDICALso](https://github.com/sirNugg3ts/TP_SO_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
+- [Trabalho_SO_2021](https://github.com/sirNugg3ts/Trabalho_SO_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
+- [MEDICALso](https://github.com/sirNugg3ts/TP_SO_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2022
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
@@ -230,7 +230,7 @@ Recursos
 - [Exames_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/1%C2%BASemestre/SO/estudo_exame) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Pratica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Pr%C3%A1tica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Materia_Teorica_SO](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/1%C2%BASemestre/SO/(SO)%20Te%C3%B3rica%20-%20WikiNote.pdf) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
-- [Apontamentos_SO](https://github.com/sirNugg3ts/Apontamentos_SO) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
+- [Apontamentos_SO](https://github.com/sirNugg3ts/Apontamentos_SO) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021/22
 
 
 ### SO2 - Sistemas Operativos II
@@ -238,12 +238,12 @@ Recursos
 Trabalhos
 
 - [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
-- [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT)
+- [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT) em 2021/22
 
 Recursos
 
 - [SO2 matéria e exercicios](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SO2) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
-- [Material_SO2](https://github.com/sirNugg3ts/Material_SO2) feito por [SirNugg3ts](https://github.com/sirNugg3ts)
+- [Material_SO2](https://github.com/sirNugg3ts/Material_SO2) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021/22
 
 ### IIA - Introdução à Inteligência Artificial
 
@@ -376,8 +376,8 @@ Trabalhos
 - [ionic-](https://github.com/ericawallberg/ionic-) (trabalho de investigação) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 - [amov-tp2](https://github.com/ericawallberg/amov-tp2) feito por [OnikenX](https://github.com/OnikenX), [ericawallberg](https://github.com/ericawallberg) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 - [\<Reversi\>](https://github.com/TheForgottened/computer-science-engineering/tree/main/AMov/first-assignment), [Weather](https://github.com/litsame/amov-flutter) feito por [TheForgotten](https://github.com/TheForgottened), [@litsame](https://github.com/litsame), [@pedromnh](https://github.com/pedromnh) em 2021/22
-- [TP-AMOV-2022](https://github.com/sirNugg3ts/TP_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009)
-- [TP2-AMOV-2022](https://github.com/sirNugg3ts/TP2_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009)
+- [TP-AMOV-2022](https://github.com/sirNugg3ts/TP_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009) feito em 2022
+- [TP2-AMOV-2022](https://github.com/sirNugg3ts/TP2_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009) feito em 2022
 
 
 Recursos
@@ -421,7 +421,7 @@ Recursos
 Trabalhos
 
 - [TP-PWEB-2122](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/PWEB/TP)  feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2021/22
-- [TP_PWEB_2122](https://github.com/sirNugg3ts/TP_PWEB_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGunPT](https://github.com/DarkGunPT)
+- [TP_PWEB_2122](https://github.com/sirNugg3ts/TP_PWEB_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGunPT](https://github.com/DarkGunPT) em 2021/22
 
 
 Recursos
