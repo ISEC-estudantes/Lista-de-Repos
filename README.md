@@ -17,7 +17,7 @@ Trabalhos e recursos por ano e unidade curricular
     - [P - Programação](#p---programação)
     - [FCG - Fundamentos da Computação Gráfica](#fcg---fundamentos-da-computação-gráfica)
     - [LS - Linguagens Script](#ls---linguagens-script)
-	- [E - Eletrónica](#e---eletrónica)
+    - [E - Eletrónica](#e---eletrónica)
   - [2º Ano](#2º-ano)
     - [IO - Investigação Operacional](#io---investigação-operacional)
     - [BD - Base de Dados](#bd---base-de-dados)
@@ -28,31 +28,31 @@ Trabalhos e recursos por ano e unidade curricular
     - [SO2 - Sistemas Operativos II](#so2---sistemas-operativos-ii)
     - [IIA - Introdução à Inteligência Artificial](#iia---introdução-à-inteligência-artificial)
     - [IRC - Introdução às Redes de Comunicação](#irc---introdução-às-redes-de-comunicação)
-    - [CE - Cablagem Estruturada](#ce--cablagem-estruturada)
-    - [ED - Encaminhamento de Dados](#ed-encaminhamento-de-dados)
-    - [EI - Empreendorismo e Inovação](#ei-empreendorismo-e-inovação)
-    - [S - Segurança](#s-segurança)
-    - [SR1 - Seviços de Rede 1](#sr1-serviços-de-rede-1)
+    - [CE - Cablagem Estruturada](#ce---cablagem-estruturada)
+    - [ED - Encaminhamento de Dados](#ed---encaminhamento-de-dados)
+    - [EI - Empreendorismo e Inovação](#ei---empreendorismo-e-inovação)
+    - [S - Segurança](#s---segurança)
+    - [SR1 - Seviços de Rede 1](#sr1---serviços-de-rede-1)
     - [ID - Integração de dados](#id---integração-de-dados)
     - [AABD - Arquitetura e Administração de Bases de Dados](#aabd---arquitetura-e-administração-de-bases-de-dados)
-	- [G - Gestão](#g---gestão)
-	- [MD - Modelação e Design](#md---modelação-e-design)
-	- [SI1 - Sistemas de Informação 1](#si1---sistemas-de-informação-1)
+    - [G - Gestão](#g---gestão)
+    - [MD - Modelação e Design](#md---modelação-e-design)
+    - [SI1 - Sistemas de Informação 1](#si1---sistemas-de-informação-1)
   - [3º Ano](#3º-ano)
     - [AMOV - Arquiteturas Móveis](#amov---arquiteturas-móveis)
     - [ED - Estruturas de Dados](#ed---estruturas-de-dados)
     - [GPS - Gestão de Projeto de Software](#gps---gestão-de-projeto-de-software)
     - [PD - Programação Distribuída](#pd---programação-distribuída)
     - [PWEB - Programação WEB](#pweb---programação-web)
-	- [DD - Disponibilidade e Desempenho](#dd---disponibilidade-e-desempenho)
-	- [GR - Gestão de Redes](#gr---gestão-de-redes)
-	- [SR2 - Serviços de Rede 2](#sr2-serviços-de-rede-2)
-	- [TL - Tecnologias de Ligação](#tl-tecnologias-de-ligação)
-	- [IC - Inteligência Computacional](#ic---inteligência-computacional)
-	- [EO - Estratégia Organizacional](#eo---estratégia-organizacional)
-	- [MOAD - Metodologias de Otimização e Apoio à Decisão](#moad---metodologias-de-otimização-e-apoio-à-decisão)
-	- [SI2 - Sistemas de Informação 2](#si2---sistemas-de-informação-2)
-	- [ED - Ética e Deontologia](#ed---ética-e-deontologia)
+    - [DD - Disponibilidade e Desempenho](#dd---disponibilidade-e-desempenho)
+    - [GR - Gestão de Redes](#gr---gestão-de-redes)
+    - [SR2 - Serviços de Rede 2](#sr2---serviços-de-rede-2)
+    - [TL - Tecnologias de Ligação](#tl---tecnologias-de-ligação)
+    - [IC - Inteligência Computacional](#ic---inteligência-computacional)
+    - [EO - Estratégia Organizacional](#eo---estratégia-organizacional)
+    - [MOAD - Metodologias de Otimização e Apoio à Decisão](#moad---metodologias-de-otimização-e-apoio-à-decisão)
+    - [SI2 - Sistemas de Informação 2](#si2---sistemas-de-informação-2)
+    - [ED - Ética e Deontologia](#ed---ética-e-deontologia)
 ---
 
 ## 1º Ano
@@ -373,7 +373,7 @@ Trabalhos
 - [Escritores](https://github.com/LuisTravassos/Integracao_de_Dados_TP) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Rodrigo Ferreira](https://github.com/Rodrrf) em 2022/2023
 
 Recursos
--[ID Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/IntegracaoDeDados) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
+- [ID Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/IntegracaoDeDados) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 
 ...
 
@@ -386,15 +386,15 @@ Trabalhos
 
 Recursos
 
--[AABD-Fichas Práticas 21/22](https://github.com/Paulitchos/AABD_FichasPraticas), feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
--[AABD Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/ArquiteturaEAdministracaoDeBaseDeDados) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
+- [AABD-Fichas Práticas 21/22](https://github.com/Paulitchos/AABD_FichasPraticas), feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
+- [AABD Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/ArquiteturaEAdministracaoDeBaseDeDados) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 
 
 ### G - Gestão
 
 Recursos
 
--[Gestao Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/Gestao) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
+- [Gestao Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/Gestao) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 
 ...
 
@@ -402,7 +402,7 @@ Recursos
 
 Recursos
 
--[MD Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/ModelacaoEDesign) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
+- [MD Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/ModelacaoEDesign) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 
 ...
 
@@ -410,7 +410,7 @@ Recursos
 
 Recursos
 
--[SI1 Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/SistemasDeInformacao1) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
+- [SI1 Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/SistemasDeInformacao1) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 
 ...
 
