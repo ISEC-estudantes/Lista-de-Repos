@@ -95,6 +95,8 @@ Trabalhos
 
 Recursos
 - [Apontamentos-TAC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/TAC) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+  
+- [Exercícios Teóricos + Explicação - TAC](https://github.com/RicardorDuarte/TAC-Teorica) feito por [RicardorDuarte](https://github.com/RicardorDuarte)
 
  ### AM2 - Análise Matemática 2
 
