@@ -125,12 +125,14 @@ Trabalhos
 Recursos
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 - [P - Guiões](https://github.com/Nun0Santos/Programacao) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2022
+- [Resoluções-Programação](https://github.com/rodas404/P2024) feito por [Rodrigo Pessoa](https://github.com/rodas404) em 2023/2024
 
 ### FCG - Fundamentos da Computação Gráfica
 
 Trabalhos
 
 - [Birthday Machine](https://youtu.be/s7v9FK87SHw) feito por [Jonnas](https://github.com/Yeshey) em 2020/2021. (.blend file download na descrição do video)
+- [Alegrias da Vida](https://www.youtube.com/watch?v=WRTWj66PqgQ) feito por [Rodrigo Pessoa](https://github.com/rodas404) em 2023/2024
 
 Recursos
 - [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
@@ -142,6 +144,7 @@ Trabalhos
 - [Ultimate-Tic-Tac-Toe](https://github.com/rub3n-s/Ultimate-Tic-Tac-Toe) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
 
 - [Ultimate-Tic-Tac-Toe](https://github.com/Rreis019/TrabalhoPraticoLS-UltimateTicTacToe) feito por [Rodrigo Reis](https://github.com/Rreis019) em 2022/2023
+- [Minesweeper](https://github.com/rodas404/TP-LS2024) feito por [Rodrigo Pessoa](https://github.com/rodas404) em 2023/2024
 
 Recursos
 - [LS-Fichas_Práticas](https://github.com/Paulitchos/LS_Pratica) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/2022
