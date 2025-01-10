@@ -90,7 +90,6 @@ Trabalhos
 
 - [Ultimate TicTacToe](https://github.com/Rreis019/TrabalhoPraticoTAC-UltimateTicTacToe) feito por [Rodrigo Reis](https://github.com/Rreis019) & [Diogo Ribeiro](https://github.com/DiogoRib) em 2022/2023
 
-- [Sopa de Letras](https://github.com/LuisTravassos/Tecnologias_e_arquitetura_de_computadores_TP) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Pedro Jorge](https://github.com/pedrojorge188) em 2021/2022
 ...
 
 Recursos
@@ -152,7 +151,6 @@ Recursos
 ### E - Eletrónica
 
 Recursos
-- [Apontamentos-E](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_1/Semestre_1/Eletronica) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2021/2022
 
 ---
 
@@ -192,7 +190,6 @@ Trabalhos
  - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
  - [ISEC TOTAL WAR](https://github.com/JOSEALM3IDA/isec-material/tree/main/POO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
  - [Island_Development](https://github.com/hooper1337/Island_Development) feito por [Hugo Ferreira](https://github.com/hooper1337) em 2021/2022
- - [Animal Reserve](https://github.com/pedrojorge188/animalReserve) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Pedro Jorge](https://github.com/pedrojorge188) em 2022/2023
 
 Recursos
 - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
@@ -210,7 +207,6 @@ Trabalhos
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
 - [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
 - [GPoE](https://github.com/rub3n-s/GPoE) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022
-- [PacMan](https://github.com/pedrojorge188/Tiny-PAc) feito por [Pedro Jorge](https://github.com/pedrojorge188) em 2023
 
 Recursos
 
@@ -226,7 +222,6 @@ Trabalhos
 - [CR-22-23](https://github.com/rub3n-s/CR-22-23) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
 
 Recursos
--[CR Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/ConhecimentoERaciocinio) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 ...
 
 ### SO - Sistemas Operativos
@@ -244,7 +239,7 @@ Trabalhos
 - [MEDICALso](https://github.com/juliodryfish/so) feito por [Júlio](https://github.com/juliodryfish) em 2021/2022
 - [Trabalho_SO_2021](https://github.com/sirNugg3ts/Trabalho_SO_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
 - [MEDICALso](https://github.com/sirNugg3ts/TP_SO_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2022
-- [SO_BAY](https://github.com/pedrojorge188/SOBay_UNIX) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Pedro Jorge](https://github.com/pedrojorge188) em 2022/2023
+
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
@@ -261,7 +256,6 @@ Trabalhos
 
 - [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT) em 2021/22
-- [SO2-2223](https://github.com/pedrojorge188/Frogger-SO2) feito por [Pedro Jorge](https://github.com/pedrojorge188)
   
 Recursos
 
@@ -278,7 +272,7 @@ Trabalhos
 - [TP2 - Problema de Otimização](https://github.com/JOSEALM3IDA/isec-material/tree/main/IIA-2020/Trabalhos/TP2) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [Rational_Behaviours](https://github.com/hooper1337/Rational_Behaviours) feito por[Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em 2021/2022
 - [Optimization_Problems](https://github.com/hooper1337/Optimization_Problems) feito por[Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em 2021/2022
-- [Projeto de Otimizacao](https://github.com/LuisTravassos/Introducao_a_Inteligencia_Artificial_TP2) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Pedro Jorge](https://github.com/pedrojorge188) em 2022/2023
+
 
 Recursos
 - [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
@@ -376,10 +370,10 @@ Recursos
 
 Trabalhos
 - [CitiesOfTheWorld](https://github.com/Nun0Santos/CitiesOfTheWorld) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2021/2022
-- [Escritores](https://github.com/LuisTravassos/Integracao_de_Dados_TP) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Rodrigo Ferreira](https://github.com/Rodrrf) em 2022/2023
+
 
 Recursos
-- [ID Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/IntegracaoDeDados) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
+
 
 ...
 
@@ -388,19 +382,17 @@ Recursos
 Trabalhos
 
 - [PortoMarinho](https://github.com/Nun0Santos/PortoMarinho) feito por [Nuno Santos](https://github.com/Nun0Santos) e [Paulitchos](https://github.com/Paulitchos) em 2021/22
-- [AABD Telecom](https://github.com/LuisTravassos/Arquitetura_e_Administracao_de_Base_de_Dados_TP) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Rodrigo Ferreira](https://github.com/Rodrrf) & Pedro Pontes em 2022/2023
+
 
 Recursos
 
 - [AABD-Fichas Práticas 21/22](https://github.com/Paulitchos/AABD_FichasPraticas), feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
-- [AABD Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/ArquiteturaEAdministracaoDeBaseDeDados) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
+
 
 
 ### G - Gestão
 
 Recursos
-
-- [Gestao Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/Gestao) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 
 ...
 
@@ -408,15 +400,11 @@ Recursos
 
 Recursos
 
-- [MD Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/ModelacaoEDesign) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
-
 ...
 
 ### SI1 - Sistemas de Informação 1
 
 Recursos
-
-- [SI1 Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_2/Semestre_2/SistemasDeInformacao1) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2022/2023
 
 ...
 
@@ -431,7 +419,7 @@ Trabalhos
 - [\<Reversi\>](https://github.com/TheForgottened/computer-science-engineering/tree/main/AMov/first-assignment), [Weather](https://github.com/litsame/amov-flutter) feito por [TheForgotten](https://github.com/TheForgottened), [@litsame](https://github.com/litsame), [@pedromnh](https://github.com/pedromnh) em 2021/22
 - [TP-AMOV-2022](https://github.com/sirNugg3ts/TP_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009) feito em 2022
 - [TP2-AMOV-2022](https://github.com/sirNugg3ts/TP2_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009) feito em 2022
-- [TP1-AMOV-2023](https://github.com/pedrojorge188/TP_AMOV) feito por [Pedro Jorge](https://github.com/pedrojorge188), [Daniel Bravo](https://github.com/Dany99486), [Ricardo Tavares](https://github.com/raatavares)
+
 
 
 Recursos
@@ -477,7 +465,6 @@ Trabalhos
 
 - [TP-PWEB-2122](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/PWEB/TP)  feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2021/22
 - [TP_PWEB_2122](https://github.com/sirNugg3ts/TP_PWEB_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGunPT](https://github.com/DarkGunPT) em 2021/22
-- [HabitAqui](https://github.com/pedrojorge188/HabitAqui-PWEB) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Pedro Jorge](https://github.com/pedrojorge188) & [Rodrigo Ferreira](https://github.com/Rodrrf) em 2023/2024
 
 Recursos
 
@@ -488,7 +475,6 @@ Recursos
 - [Apontamentos-Teoricos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/3%C2%BAAno/PWEB/TEORICAS/Apontamentos_Tericos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
 
 - [Exames](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/PWEB/EXAMES) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
-- [PWEB Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_3/Semestre_1/ProgramacaoWEB) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2023/2024
 
 
 ### DD - Disponibilidade e Desempenho
@@ -548,35 +534,27 @@ Recursos
 
 Trabalhos
 
-- [IC Trabalho Prático](https://github.com/LuisTravassos/IC_PraticalWork) feito por [Luís Travassos](https://github.com/LuisTravassos) & [Rodrigo Ferreira](https://github.com/Rodrrf) em 2023/2024
 
 Recursos
-
-- [IC Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_3/Semestre_1/InteligenciaComputacional) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2023/2024
 
 ### EO - Estratégia Organizacional
 
 Recursos
 
-- [EO Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_3/Semestre_1/EstrategiaOrganizacional) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2023/2024
 
 ### MOAD - Metodologias de Otimização e Apoio à Decisão
 
 Recursos
 
-- [MOAD Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_3/Semestre_1/MetodologiasDeOtimizacaoEApoioADecisao) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2023/2024
-
 ### SI2 - Sistemas de Informação 2
 
 Recursos
 
-- [SI2 Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_3/Semestre_1/SistemasDeInformacao2) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2023/2024
 
 ### ED - Ética e Deontologia
 
 Recursos
 
-- [ED Apontamentos](https://github.com/LuisTravassos/ISEC_Material/tree/main/Ano_3/Semestre_2/EticaDeontologia) feito por [Luís Travassos](https://github.com/LuisTravassos) em 2023/2024
 
 ---
 
@@ -603,7 +581,3 @@ Repositórios para notas, resoluções etc.
 - [Computer Science & Engineering](https://github.com/TheForgottened/computer-science-engineering) mantido por [TheForgotten](https://github.com/TheForgottened)
 
     🖥️ All the material I gathered during my degree in Computer Science & Engineering @ ISEC
-	
-- [ISEC_Material](https://github.com/LuisTravassos/ISEC_Material) mantido por [Luís Travassos](https://github.com/LuisTravassos)
-
-    Variedade de materiais que acumulei durante os três anos do meu curso de Licenciatura em Engenharia Informática.
