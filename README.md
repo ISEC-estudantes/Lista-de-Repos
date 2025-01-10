@@ -95,6 +95,8 @@ Trabalhos
 
 Recursos
 - [Apontamentos-TAC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/TAC) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
+  
+- [Exercícios Teóricos + Explicação - TAC](https://github.com/RicardorDuarte/TAC-Teorica) feito por [RicardorDuarte](https://github.com/RicardorDuarte)
 
  ### AM2 - Análise Matemática 2
 
@@ -123,12 +125,14 @@ Trabalhos
 Recursos
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 - [P - Guiões](https://github.com/Nun0Santos/Programacao) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2022
+- [Resoluções-Programação](https://github.com/rodas404/P2024) feito por [Rodrigo Pessoa](https://github.com/rodas404) em 2023/2024
 
 ### FCG - Fundamentos da Computação Gráfica
 
 Trabalhos
 
 - [Birthday Machine](https://youtu.be/s7v9FK87SHw) feito por [Jonnas](https://github.com/Yeshey) em 2020/2021. (.blend file download na descrição do video)
+- [Alegrias da Vida](https://www.youtube.com/watch?v=WRTWj66PqgQ) feito por [Rodrigo Pessoa](https://github.com/rodas404) em 2023/2024
 
 Recursos
 - [Apontamentos-FCG](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/FCG) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
@@ -140,6 +144,7 @@ Trabalhos
 - [Ultimate-Tic-Tac-Toe](https://github.com/rub3n-s/Ultimate-Tic-Tac-Toe) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
 
 - [Ultimate-Tic-Tac-Toe](https://github.com/Rreis019/TrabalhoPraticoLS-UltimateTicTacToe) feito por [Rodrigo Reis](https://github.com/Rreis019) em 2022/2023
+- [Minesweeper](https://github.com/rodas404/TP-LS2024) feito por [Rodrigo Pessoa](https://github.com/rodas404) em 2023/2024
 
 Recursos
 - [LS-Fichas_Práticas](https://github.com/Paulitchos/LS_Pratica) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/2022
@@ -205,11 +210,11 @@ Trabalhos
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
 - [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
 - [GPoE](https://github.com/rub3n-s/GPoE) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022
+- [PacMan](https://github.com/pedrojorge188/Tiny-PAc) feito por [Pedro Jorge](https://github.com/pedrojorge188) em 2023
 
 Recursos
 
 - [PA](https://github.com/sirNugg3ts/PA) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
-
 ...
 
 ### CR - Conhecimento e Raciocínio
@@ -256,7 +261,8 @@ Trabalhos
 
 - [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT) em 2021/22
-
+- [SO2-2223](https://github.com/pedrojorge188/Frogger-SO2) feito por [Pedro Jorge](https://github.com/pedrojorge188)
+  
 Recursos
 
 - [SO2 matéria e exercicios](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SO2) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
@@ -425,6 +431,7 @@ Trabalhos
 - [\<Reversi\>](https://github.com/TheForgottened/computer-science-engineering/tree/main/AMov/first-assignment), [Weather](https://github.com/litsame/amov-flutter) feito por [TheForgotten](https://github.com/TheForgottened), [@litsame](https://github.com/litsame), [@pedromnh](https://github.com/pedromnh) em 2021/22
 - [TP-AMOV-2022](https://github.com/sirNugg3ts/TP_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009) feito em 2022
 - [TP2-AMOV-2022](https://github.com/sirNugg3ts/TP2_AMOV_2022) feito por [SirNugg3ts](https://github.com/sirNugg3ts),[leosousa200](https://github.com/leosousa200) e [Rodrigo Costa](https://github.com/rodri009) feito em 2022
+- [TP1-AMOV-2023](https://github.com/pedrojorge188/TP_AMOV) feito por [Pedro Jorge](https://github.com/pedrojorge188), [Daniel Bravo](https://github.com/Dany99486), [Ricardo Tavares](https://github.com/raatavares)
 
 
 Recursos
@@ -458,6 +465,7 @@ Recursos
 Trabalhos
 - [PD_TP_2020_2021_by_OV3](https://github.com/OnikenX/PD_TP_2020_2021_by_OV3) feito por [OnikenX](https://github.com/OnikenX), [joaovalente99](https://github.com/joaovalente99) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020/2021
 - [MetaPD](https://github.com/TheForgottened/computer-science-engineering/tree/main/PD/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened), [@danielmribeiro](https://github.com/danielmribeiro), [@franciscooferreiraa](https://github.com/franciscooferreiraa) em 2021/22
+
 
 Recursos
 
