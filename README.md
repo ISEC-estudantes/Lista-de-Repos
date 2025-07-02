@@ -191,7 +191,7 @@ Trabalhos
  - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
  - [ISEC TOTAL WAR](https://github.com/JOSEALM3IDA/isec-material/tree/main/POO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
  - [Island_Development](https://github.com/hooper1337/Island_Development) feito por [Hugo Ferreira](https://github.com/hooper1337) em 2021/2022
- - [POO-2024/2025](hhttps://github.com/0xADGP/ISEC/tree/main/poo_tp) feito por [António Pedroso](https://github.com/0xADGP) em 2024/2025
+ - [POO-2024/2025](https://github.com/0xADGP/ISEC/tree/main/poo_tp) feito por [António Pedroso](https://github.com/0xADGP) em 2024/2025
 
 Recursos
 - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
