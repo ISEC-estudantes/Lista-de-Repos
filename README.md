@@ -67,16 +67,16 @@ Recursos
 
 - [IP-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/IP-2019) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
 
- 
+
 ### TWEB - Tecnologias WEB
 
 Trabalhos
  - [tweb-quercus](https://github.com/JOSEALM3IDA/isec-trabalho-tweb) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2019
  - [trabalhoTweb](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/1%C2%BASemestre/TWEB/TP) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [RafaelRibeiro00](https://github.com/RafaelRibeiro00) em 2019/2020
  - [TWEB-2018](https://github.com/ISEC-estudantes/TWEB-2018) feito por [OnikenX](https://github.com/OnikenX) em 2018
-
+ - [TWEB-2021/2022](https://github.com/0xADGP/ISEC/tree/main/tweb_tp) feito por [António Pedroso](https://github.com/0xADGP) e Alexandre Belostecinic em 2021/2022
  - [TWEB-2022/2023](https://github.com/Rreis019/TrabalhoPraticoTWEB-ACP) feito por [Rodrigo Reis](https://github.com/Rreis019) e Renato Santos em 2022/2023
- 
+
 Recursos
 
 ...
@@ -87,14 +87,14 @@ Trabalhos
 
 - [Jogo dos Labirintos](https://github.com/fxvnder/JogoDosLabirintos) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) & Pedro "Fallen" Miranda em 2021
 - [Jogo dos Labirintos](https://github.com/Yeshey/x86_64-Assembly-project-2021) feito por [Jonnas](https://github.com/Yeshey) & [Paulitchos](https://github.com/Paulitchos) em 2020/2021
-
+- [TAC-2021/2022](https://github.com/0xADGP/ISEC/tree/main/tac_tp) feito por [António Pedroso](https://github.com/0xADGP) e Alexandre Belostecinic em 2021/2022
 - [Ultimate TicTacToe](https://github.com/Rreis019/TrabalhoPraticoTAC-UltimateTicTacToe) feito por [Rodrigo Reis](https://github.com/Rreis019) & [Diogo Ribeiro](https://github.com/DiogoRib) em 2022/2023
 
 ...
 
 Recursos
 - [Apontamentos-TAC](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/TAC) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996)
-  
+
 - [Exercícios Teóricos + Explicação - TAC](https://github.com/RicardorDuarte/TAC-Teorica) feito por [RicardorDuarte](https://github.com/RicardorDuarte)
 
  ### AM2 - Análise Matemática 2
@@ -103,6 +103,7 @@ Trabalhos
 - [AT01-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade01), [AT02-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade02), [AT03-AM2](https://github.com/JOSEALM3IDA/isec-material/tree/main/AM2-2020/AMatividade03) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [Carlos Pais]() em 2020
 - [trabalho1](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP1/trabalho1), [trabalho2](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP2/trabalho2), [trabalho3](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/1%C2%BAAno/2%C2%BASemestre/AM2/TP3/trabalho3) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2019/2020
 - [Numerical Methods for Ordinary Differential Equations and Initial Value Problems](https://github.com/TheForgottened/computer-science-engineering/tree/main/AM2/assignments/first-assignment), [Numerical Methods for Systems of Differential Equations](https://github.com/TheForgottened/computer-science-engineering/tree/main/AM2/assignments/second-assignment), [Differentiation and Integration Machine](https://github.com/TheForgottened/computer-science-engineering/tree/main/AM2/assignments/third-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
+- [AM2-TP3](https://github.com/0xADGP/ISEC/tree/main/am2_tp_3), [AM2-TP4](https://github.com/0xADGP/ISEC/tree/main/am2_tp_4), [AM2-TP5](https://github.com/0xADGP/ISEC/tree/main/am2_tp_5) feito por [António Pedroso](https://github.com/0xADGP), António Rocha e Samuel Costa em 2024/2025
 
 Recursos
 
@@ -118,6 +119,7 @@ Trabalhos
  - [Virus-Propagation-Analysis](https://github.com/Paul-Bob/TP-P-Virus-Propagation-Analysis) feito por [Paul bob](https://github.com/Paul-Bob) em 2020
  - [JogoDoSemaforo](https://github.com/fxvnder/Jogo-do-Semaforo) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder/) em 2021
  - [Simulation of a Virus' Spread](https://github.com/TheForgottened/computer-science-engineering/tree/main/P/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
+ - [P-2021/2022](https://github.com/0xADGP/ISEC/tree/main/prog_tp) feito por [António Pedroso](https://github.com/0xADGP) em 2021/2022
  - [Ultimate-Tic-Tac-Toe](https://github.com/Nun0Santos/Ultimate-Tic-Tac-Toe) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2021/2022
  - [Tic-Tac-Toe 21/22](https://github.com/tfig-dev/prog-22) feito por [Tiago Figueiredo](https://github.com/tfig-dev/) em 2021/2022
 
@@ -139,9 +141,8 @@ Recursos
 ### LS - Linguagens Script
 
 Trabalhos
-
+- [LS-2021/2022](https://github.com/0xADGP/ISEC/tree/main/ls_tp) feito por [António Pedroso](https://github.com/0xADGP) e Alexandre Belostecinic em 2021/2022
 - [Ultimate-Tic-Tac-Toe](https://github.com/rub3n-s/Ultimate-Tic-Tac-Toe) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
-
 - [Ultimate-Tic-Tac-Toe](https://github.com/Rreis019/TrabalhoPraticoLS-UltimateTicTacToe) feito por [Rodrigo Reis](https://github.com/Rreis019) em 2022/2023
 - [Minesweeper](https://github.com/rodas404/TP-LS2024) feito por [Rodrigo Pessoa](https://github.com/rodas404) em 2023/2024
 
@@ -190,6 +191,7 @@ Trabalhos
  - [ISEC - I See, Eu Conquisto](https://github.com/fxvnder/ISeeEuConquisto/) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) e [Zé "EdEquinox" Marques](https://github.com/EdEquinox) em 2020/2021
  - [ISEC TOTAL WAR](https://github.com/JOSEALM3IDA/isec-material/tree/main/POO-2020/Trabalho) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
  - [Island_Development](https://github.com/hooper1337/Island_Development) feito por [Hugo Ferreira](https://github.com/hooper1337) em 2021/2022
+ - [POO-2024/2025](https://github.com/0xADGP/ISEC/tree/main/poo_tp) feito por [António Pedroso](https://github.com/0xADGP) em 2024/2025
 
 Recursos
 - [POO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/POO) feito por Guilherme Curado, ex-aluno do ISEC
@@ -207,6 +209,7 @@ Trabalhos
 - [CONNECT-FOUR](https://github.com/Paul-Bob/TP-PA-CONNECT-FOUR) feito por [Paul bob](https://github.com/Paul-Bob) em 2021
 - [Connect Four](https://github.com/TheForgottened/computer-science-engineering/tree/main/PA/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2020/21
 - [GPoE](https://github.com/rub3n-s/GPoE) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022
+- [PA-2024/2025](https://github.com/0xADGP/ISEC/tree/main/pa_tp) feito por [António Pedroso](https://github.com/0xADGP), Carolina Veloso e Luis Duarte em 2024/2025
 
 Recursos
 
@@ -220,6 +223,7 @@ Trabalhos
 - [isec-trabalho-cr](https://github.com/JOSEALM3IDA/isec-trabalho-cr) feito por [TheForgotten](https://github.com/TheForgottened) e [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020/21
 - [Shape-Recognition-Network](https://github.com/RafaelSGil/Shape-Recognition-Network) feito por [RafaelSGil](https://github.com/RafaelSGil) e [Nuno Santos](https://github.com/Nun0Santos) em 2021/22
 - [CR-22-23](https://github.com/rub3n-s/CR-22-23) feito por [Rúben Santos](https://github.com/rub3n-s) em 2022/2023
+- [CR-2024/2025](https://github.com/0xADGP/ISEC/tree/main/cr_tp) feito por [António Pedroso](https://github.com/0xADGP) e Bruno Correia em 2024/2025
 
 Recursos
 ...
@@ -239,7 +243,7 @@ Trabalhos
 - [MEDICALso](https://github.com/juliodryfish/so) feito por [Júlio](https://github.com/juliodryfish) em 2021/2022
 - [Trabalho_SO_2021](https://github.com/sirNugg3ts/Trabalho_SO_2021) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2021
 - [MEDICALso](https://github.com/sirNugg3ts/TP_SO_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) em 2022
-
+- [SO-2024/2025](https://github.com/0xADGP/ISEC/tree/main/so_tp) feito por [António Pedroso](https://github.com/0xADGP) em 2024/2025
 
 Recursos
 - [SO matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/SO) feito por Guilherme Curado, ex-aluno do ISEC
@@ -256,7 +260,7 @@ Trabalhos
 
 - [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT) em 2021/22
-  
+
 Recursos
 
 - [SO2 matéria e exercicios](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/SO2) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020/21
@@ -272,7 +276,7 @@ Trabalhos
 - [TP2 - Problema de Otimização](https://github.com/JOSEALM3IDA/isec-material/tree/main/IIA-2020/Trabalhos/TP2) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [Rational_Behaviours](https://github.com/hooper1337/Rational_Behaviours) feito por[Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em 2021/2022
 - [Optimization_Problems](https://github.com/hooper1337/Optimization_Problems) feito por[Hugo Ferreira](https://github.com/hooper1337) e [YangWolf](https://github.com/xYangWolfx) em 2021/2022
-
+- [IIA-TP1](https://github.com/0xADGP/ISEC/tree/main/iia_tp_1), [IIA-TP2](https://github.com/0xADGP/ISEC/tree/main/iia_tp_2) feito por [António Pedroso](https://github.com/0xADGP) e [José Xavier](https://github.com/rednexx46) em 2024/2025
 
 Recursos
 - [IIA matéria 15-16](https://github.com/Bastozzz/Anos15-17/tree/main/IIA) feito por Guilherme Curado, ex-aluno do ISEC
@@ -301,14 +305,14 @@ Recursos
 
 ### CE - Cablagem Estruturada
 
-Trabalhos 
+Trabalhos
 
 - [TP_A](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/TP_A) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 
 - [TP_B](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/TP_B) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 
 
-Recursos 
+Recursos
 
 - [Estudo-Exame](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/ESTUDO_EXAME) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 - [Apontamentos-Práticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/blob/master/2%C2%BAAno/2%C2%BASemestre/CE/Apontamentos_Prticos.pdf) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
@@ -319,7 +323,7 @@ Recursos
 Trabalhos
 
 - [TP](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/ED/TRABALHO_PRATICO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
- 
+
 Recursos
 
 - [Estudo-Exame](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/ED/ESTUDO_EXAME) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
@@ -342,7 +346,7 @@ Recursos
 
 ### S - Segurança
 
-Trabalhos 
+Trabalhos
 
 ...
 
@@ -355,7 +359,7 @@ Recursos
 
 ### SR1 - Serviços de Rede 1
 
-Trabalhos 
+Trabalhos
 
 ...
 
@@ -398,9 +402,9 @@ Recursos
 
 ### MD - Modelação e Design
 
-Recursos
+Trabalhos
 
-...
+- [MD-2024/2025](https://github.com/0xADGP/ISEC/tree/main/md_tp) feito por [António Pedroso](https://github.com/0xADGP), Filipe Silveira e Ricardo Martinho em 2024/2025
 
 ### SI1 - Sistemas de Informação 1
 
@@ -507,7 +511,7 @@ Recursos
 
 
 ### SR2 - Serviços de Rede 2
- 
+
 Recursos
 
 - [Apontamentos-Praticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/SR2/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
@@ -560,10 +564,10 @@ Recursos
 
 # Repositórios Geral
 
-Repositórios para notas, resoluções etc. 
+Repositórios para notas, resoluções etc.
 
 - [Resolucoes-ISEC](https://github.com/ISEC-estudantes/Resolucoes-ISEC) mantido por [Samega7Cattac](https://github.com/Samega7Cattac)
-    
+
     Resoluções de exercícios das cadeiras relacionadas com C/C++.
 
 - [JAVA-notes](https://github.com/ISEC-estudantes/JAVA-notes) mantido por [OnikenX](https://github.com/OnikenX)
