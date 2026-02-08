@@ -260,6 +260,7 @@ Trabalhos
 
 - [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT) em 2021/22
+- [SO2-2425](https://github.com/RicardorDuarte/TP---SO2---2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) e [Martim Oliverira] em 2024/25
 
 Recursos
 
@@ -311,6 +312,7 @@ Trabalhos
 
 - [TP_B](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/CE/TP_B) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
 
+- [TP](https://github.com/RicardorDuarte/TP-Cablagem.Estruturada-2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) e Martim Oliveira em 2024/25
 
 Recursos
 
@@ -348,7 +350,8 @@ Recursos
 
 Trabalhos
 
-...
+- [TP](https://github.com/RicardorDuarte/TP-Seguranca-2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) Martim Oliveira e Ernesto Cruz em 2024/25
+
 
 Recursos
 
@@ -469,6 +472,7 @@ Trabalhos
 
 - [TP-PWEB-2122](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/PWEB/TP)  feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2021/22
 - [TP_PWEB_2122](https://github.com/sirNugg3ts/TP_PWEB_2122) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGunPT](https://github.com/DarkGunPT) em 2021/22
+- [TP_PWEB_2526](https://github.com/RicardorDuarte/TP-PWEB-2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) e Martim Oliveira em 2025/26
 
 Recursos
 
@@ -486,6 +490,9 @@ Recursos
 Trabalhos
 
 - [TP-BrunoTeixeira](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/DD/TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+  
+- [TP](https://github.com/RicardorDuarte/TP-Disp.Desempenho-2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) Martim Oliveira e Ernesto Cruz em 2025/26
+
 
 Recursos
 
@@ -498,6 +505,8 @@ Recursos
 ### GR - Gestão de Redes
 
 Trabalhos
+
+- [TP](https://github.com/RicardorDuarte/TP-Gest.Redes-2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) e Martim Oliveira em 2025/26
 
 Recursos
 
@@ -512,6 +521,10 @@ Recursos
 
 ### SR2 - Serviços de Rede 2
 
+Trabalhos
+
+- [TP](https://github.com/RicardorDuarte/TP-Serv.Rede2-2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) Martim Oliveira e Ernesto Cruz em 2025/26
+
 Recursos
 
 - [Apontamentos-Praticos](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/SR2/PRATICAS) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
@@ -525,6 +538,8 @@ Recursos
 Trabalhos
 
 - [TP-2122](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/3%C2%BAAno/TL/TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2021/22
+
+- [TP](https://github.com/RicardorDuarte/TP-Tec.Ligacao-2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) em 2025/26
 
 Recursos
 
