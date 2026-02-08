@@ -260,7 +260,7 @@ Trabalhos
 
 - [SO2_TP](https://github.com/TheForgottened/computer-science-engineering/tree/main/SO2/final-assignment) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) e [TheForgotten](https://github.com/TheForgottened) em 2020/2021
 - [SO2-2122](https://github.com/sirNugg3ts/so2-2122-tp-m1-DiogoPascoal-2018019825-NunoHonorio-2019126457) feito por [SirNugg3ts](https://github.com/sirNugg3ts) e [DarkGun](https://github.com/DarkGunPT) em 2021/22
-- [SO2-2425](https://github.com/RicardorDuarte/TP---SO2---2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) e [Martim Oliverira] em 2024/25
+- [SO2-2425](https://github.com/RicardorDuarte/TP---SO2---2025) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) e Martim Oliverira em 2024/25
 
 Recursos
 
