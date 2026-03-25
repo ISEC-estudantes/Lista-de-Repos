@@ -333,6 +333,7 @@ Recursos
 Trabalhos
 
 - [TP](https://github.com/BrunoTeixeira1996/Apontamentos-ISEC/tree/master/2%C2%BAAno/2%C2%BASemestre/ED/TRABALHO_PRATICO) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) em 2020/21
+- [TP](https://github.com/RicardorDuarte/TP---ED--2024) feito por [Ricardo Duarte](https://github.com/RicardorDuarte) em 2024/2025
 
 Recursos
 
